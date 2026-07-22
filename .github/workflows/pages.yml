@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -17,38 +17,52 @@ concurrency:
 jobs:
   enable-pages:
     runs-on: ubuntu-latest
+    outputs:
+      pages_enabled: ${{ steps.check.outputs.pages_enabled }}
     steps:
-      - name: Enable GitHub Pages (workflow source)
+      - name: Check / enable Pages
+        id: check
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          STATUS=$(gh api repos/${{ github.repository }}/pages -q .status 2>/dev/null || echo "not_found")
-          if [ "$STATUS" = "not_found" ]; then
-            echo "Enabling GitHub Pages..."
-            gh api repos/${{ github.repository }}/pages -X POST -f build_type=workflow || true
+          if gh api "repos/${{ github.repository }}/pages" --silent 2>/dev/null; then
+            echo "Pages is enabled"
+            echo "pages_enabled=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "Pages not enabled — trying API..."
+          if gh api "repos/${{ github.repository }}/pages" -X POST -f build_type=workflow 2>/dev/null; then
+            echo "pages_enabled=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Pages already enabled (status: $STATUS)"
-            gh api repos/${{ github.repository }}/pages -X PUT -f build_type=workflow || true
+            echo "pages_enabled=false" >> "$GITHUB_OUTPUT"
           fi
 
-  deploy:
+  deploy-actions:
     needs: enable-pages
+    if: needs.enable-pages.outputs.pages_enabled == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-branch:
+    needs: enable-pages
+    if: needs.enable-pages.outputs.pages_enabled == 'false'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish to gh-pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .
+          branch: gh-pages
+          clean: true
+          single-commit: true
