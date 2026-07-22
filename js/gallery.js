@@ -6,11 +6,23 @@
   const lightboxImg = document.getElementById("lightbox-img");
   const lightboxCaption = document.getElementById("lightbox-caption");
   const lightboxClose = document.getElementById("lightbox-close");
+  const lightboxHide = document.getElementById("lightbox-hide");
   const countEl = document.getElementById("count");
+  const hiddenToggle = document.getElementById("hidden-toggle");
+  const hiddenCountEl = document.getElementById("hidden-count");
+  const hiddenPanel = document.getElementById("hidden-panel");
+  const hiddenPanelClose = document.getElementById("hidden-panel-close");
+  const hiddenList = document.getElementById("hidden-list");
+  const hiddenExport = document.getElementById("hidden-export");
+  const hiddenClear = document.getElementById("hidden-clear");
 
   const CACHE_KEY = "artwork-dimensions-v3";
+  const HIDDEN_STORAGE_KEY = "artwork-user-hidden-v1";
   let artworks = [];
+  let hiddenMeta = new Map();
+  let hiddenSrcs = new Set();
   let activeFilter = "All";
+  let activeLightboxArt = null;
   let dimensionCache = loadDimensionCache();
 
   const JUNK_PATTERNS = [
@@ -60,6 +72,194 @@
     return false;
   }
 
+  function loadUserHidden() {
+    try {
+      const stored = JSON.parse(localStorage.getItem(HIDDEN_STORAGE_KEY) || "[]");
+      if (!Array.isArray(stored)) return [];
+      return stored.filter((entry) => entry && entry.src);
+    } catch {
+      return [];
+    }
+  }
+
+  function saveUserHidden(entries) {
+    try {
+      localStorage.setItem(HIDDEN_STORAGE_KEY, JSON.stringify(entries));
+    } catch {
+      /* ignore quota errors */
+    }
+  }
+
+  function rebuildHiddenState() {
+    hiddenMeta = new Map();
+    hiddenSrcs = new Set();
+
+    loadUserHidden().forEach((entry) => {
+      hiddenSrcs.add(entry.src);
+      hiddenMeta.set(entry.src, entry);
+    });
+  }
+
+  async function loadHiddenBlocklist() {
+    rebuildHiddenState();
+
+    try {
+      const res = await fetch("data/hidden.json");
+      if (!res.ok) return;
+      const blocklist = await res.json();
+      if (!Array.isArray(blocklist)) return;
+
+      blocklist.forEach((entry) => {
+        const src = typeof entry === "string" ? entry : entry?.src;
+        if (!src || hiddenSrcs.has(src)) return;
+        hiddenSrcs.add(src);
+        hiddenMeta.set(src, typeof entry === "string" ? { src } : entry);
+      });
+    } catch {
+      /* optional file */
+    }
+  }
+
+  function isHidden(art) {
+    return hiddenSrcs.has(art.src);
+  }
+
+  function hideArtwork(art) {
+    if (!art?.src || hiddenSrcs.has(art.src)) return;
+
+    hiddenSrcs.add(art.src);
+    hiddenMeta.set(art.src, {
+      src: art.src,
+      title: art.title || "",
+      artist: art.artist || "",
+      hiddenAt: Date.now(),
+    });
+
+    const userHidden = loadUserHidden().filter((entry) => entry.src !== art.src);
+    userHidden.push(hiddenMeta.get(art.src));
+    saveUserHidden(userHidden);
+
+    if (activeLightboxArt?.src === art.src) {
+      closeLightbox();
+    }
+
+    updateHiddenUi();
+    renderGallery();
+  }
+
+  function restoreArtwork(src) {
+    saveUserHidden(loadUserHidden().filter((entry) => entry.src !== src));
+    loadHiddenBlocklist().then(() => {
+      updateHiddenUi();
+      renderHiddenPanel();
+      renderGallery();
+    });
+  }
+
+  function restoreAllHidden() {
+    saveUserHidden([]);
+    loadHiddenBlocklist().then(() => {
+      updateHiddenUi();
+      renderHiddenPanel();
+      renderGallery();
+    });
+  }
+
+  function getUserHiddenEntries() {
+    return loadUserHidden();
+  }
+
+  function updateHiddenUi() {
+    const userHiddenCount = getUserHiddenEntries().length;
+    const visibleCount = artworks.filter((art) => !isHidden(art)).length;
+
+    if (countEl) {
+      countEl.textContent = `${visibleCount.toLocaleString()} paintings`;
+    }
+
+    if (hiddenToggle && hiddenCountEl) {
+      hiddenCountEl.textContent = String(userHiddenCount);
+      hiddenToggle.hidden = userHiddenCount === 0;
+    }
+  }
+
+  function renderHiddenPanel() {
+    if (!hiddenList) return;
+
+    hiddenList.innerHTML = "";
+    const entries = getUserHiddenEntries().sort((a, b) => (b.hiddenAt || 0) - (a.hiddenAt || 0));
+
+    if (!entries.length) {
+      const empty = document.createElement("li");
+      empty.className = "hidden-empty";
+      empty.textContent = "Nothing hidden yet. Use Hide on any card to remove it from the gallery.";
+      hiddenList.appendChild(empty);
+      return;
+    }
+
+    entries.forEach((entry) => {
+      const item = document.createElement("li");
+      item.className = "hidden-item";
+
+      const label = document.createElement("div");
+      label.className = "hidden-item-label";
+      label.innerHTML =
+        `<strong>${escapeHtml(entry.title || "Untitled")}</strong>` +
+        `<span>${escapeHtml(entry.artist || "Unknown artist")}</span>`;
+
+      const restoreBtn = document.createElement("button");
+      restoreBtn.type = "button";
+      restoreBtn.className = "hidden-restore";
+      restoreBtn.textContent = "Restore";
+      restoreBtn.addEventListener("click", () => restoreArtwork(entry.src));
+
+      item.appendChild(label);
+      item.appendChild(restoreBtn);
+      hiddenList.appendChild(item);
+    });
+  }
+
+  function openHiddenPanel() {
+    if (!hiddenPanel) return;
+    renderHiddenPanel();
+    hiddenPanel.showModal();
+  }
+
+  async function exportHiddenList() {
+    const payload = getUserHiddenEntries().map(({ src, title, artist }) => ({ src, title, artist }));
+
+    try {
+      await navigator.clipboard.writeText(JSON.stringify(payload, null, 2));
+      if (hiddenExport) {
+        const original = hiddenExport.textContent;
+        hiddenExport.textContent = "Copied!";
+        setTimeout(() => {
+          hiddenExport.textContent = original;
+        }, 1600);
+      }
+    } catch {
+      if (hiddenExport) {
+        hiddenExport.textContent = "Copy failed";
+        setTimeout(() => {
+          hiddenExport.textContent = "Copy list";
+        }, 1600);
+      }
+    }
+  }
+
+  function createHideButton(art) {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "card-hide";
+    btn.setAttribute("aria-label", `Hide ${art.title}`);
+    btn.textContent = "Hide";
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      hideArtwork(art);
+    });
+    return btn;
+  }
   function dedupeArtworks(items) {
     const seen = new Set();
     const unique = [];
@@ -150,8 +350,9 @@
   }
 
   function filtered() {
-    if (activeFilter === "All") return artworks;
-    return artworks.filter((a) => a.style === activeFilter);
+    const visible = artworks.filter((art) => !isHidden(art));
+    if (activeFilter === "All") return visible;
+    return visible.filter((a) => a.style === activeFilter);
   }
 
   function renderFilters() {
@@ -171,6 +372,7 @@
   }
 
   function openLightbox(art) {
+    activeLightboxArt = art;
     lightboxImg.src = art.src;
     lightboxImg.alt = `${art.title} by ${art.artist}`;
     const year = art.year ? `, ${art.year}` : "";
@@ -180,6 +382,7 @@
   }
 
   function closeLightbox() {
+    activeLightboxArt = null;
     lightbox.hidden = true;
     lightboxImg.src = "";
     document.body.style.overflow = "";
@@ -230,6 +433,7 @@
       media.appendChild(img);
       card.appendChild(media);
       card.appendChild(overlay);
+      card.appendChild(createHideButton(art));
 
       card.addEventListener("click", () => openLightbox(art));
       card.addEventListener("keydown", (e) => {
@@ -252,6 +456,11 @@
   }
 
   lightboxClose.addEventListener("click", closeLightbox);
+  if (lightboxHide) {
+    lightboxHide.addEventListener("click", () => {
+      if (activeLightboxArt) hideArtwork(activeLightboxArt);
+    });
+  }
   lightbox.addEventListener("click", (e) => {
     if (e.target === lightbox) closeLightbox();
   });
@@ -259,11 +468,28 @@
     if (e.key === "Escape" && !lightbox.hidden) closeLightbox();
   });
 
-  loadArtworks()
+  if (hiddenToggle) {
+    hiddenToggle.addEventListener("click", openHiddenPanel);
+  }
+  if (hiddenPanelClose) {
+    hiddenPanelClose.addEventListener("click", () => hiddenPanel?.close());
+  }
+  if (hiddenExport) {
+    hiddenExport.addEventListener("click", exportHiddenList);
+  }
+  if (hiddenClear) {
+    hiddenClear.addEventListener("click", restoreAllHidden);
+  }
+  if (hiddenPanel) {
+    hiddenPanel.addEventListener("click", (e) => {
+      if (e.target === hiddenPanel) hiddenPanel.close();
+    });
+  }
+
+  loadHiddenBlocklist()
+    .then(() => loadArtworks())
     .then(async () => {
-      if (countEl) {
-        countEl.textContent = `${artworks.length.toLocaleString()} paintings`;
-      }
+      updateHiddenUi();
       renderFilters();
       await renderGallery();
     })

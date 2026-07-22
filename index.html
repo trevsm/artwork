@@ -16,6 +16,11 @@
       <h1>artwork</h1>
       <p class="tagline">Realist &amp; romantic landscapes for large wall pieces — think Thomas Cole, Ivan Shishkin, and similar</p>
       <p class="count" id="count"></p>
+      <div class="header-actions">
+        <button type="button" class="hidden-toggle" id="hidden-toggle" hidden>
+          Hidden <span id="hidden-count">0</span>
+        </button>
+      </div>
       <div class="filters" id="filters" aria-label="Filter by style"></div>
     </div>
   </header>
@@ -31,11 +36,27 @@
 
   <div class="lightbox" id="lightbox" hidden>
     <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+    <button class="lightbox-hide" id="lightbox-hide" type="button" aria-label="Hide this painting">Hide</button>
     <figure class="lightbox-content">
       <img id="lightbox-img" src="" alt="">
       <figcaption id="lightbox-caption"></figcaption>
     </figure>
   </div>
+
+  <dialog class="hidden-panel" id="hidden-panel" aria-labelledby="hidden-panel-title">
+    <div class="hidden-panel-inner">
+      <header class="hidden-panel-header">
+        <h2 id="hidden-panel-title">Hidden paintings</h2>
+        <button type="button" class="hidden-panel-close" id="hidden-panel-close" aria-label="Close">&times;</button>
+      </header>
+      <p class="hidden-panel-note">Hidden items stay off the gallery in this browser. Use Restore to bring one back, or export the list to save it.</p>
+      <ul class="hidden-list" id="hidden-list"></ul>
+      <div class="hidden-panel-actions">
+        <button type="button" class="hidden-action" id="hidden-export">Copy list</button>
+        <button type="button" class="hidden-action hidden-action-danger" id="hidden-clear">Restore all</button>
+      </div>
+    </div>
+  </dialog>
 
   <script src="js/gallery.js"></script>
 </body>
