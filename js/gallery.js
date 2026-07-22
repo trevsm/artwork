@@ -75,13 +75,6 @@
       img.loading = "lazy";
       img.decoding = "async";
 
-      if (art.professional) {
-        const chip = document.createElement("span");
-        chip.className = "chip pro";
-        chip.textContent = "Professional";
-        card.appendChild(chip);
-      }
-
       const overlay = document.createElement("div");
       overlay.className = "card-overlay";
       overlay.innerHTML =
