@@ -5,15 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>artwork — Wall Art Inspiration</title>
   <meta name="description" content="Realist and romantic landscape paintings for large-format wall art — Hudson River School, Russian Realism, and more.">
+  <meta name="color-scheme" content="light dark">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <script>
+    (function () {
+      var stored = localStorage.getItem("artwork-theme");
+      if (stored === "dark" || stored === "light") {
+        document.documentElement.dataset.theme = stored;
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <h1>artwork</h1>
+      <div class="header-top">
+        <h1>artwork</h1>
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">
+          <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+          <span class="theme-toggle-label">Dark</span>
+        </button>
+      </div>
       <p class="tagline">Realist &amp; romantic landscapes for large wall pieces — think Thomas Cole, Ivan Shishkin, and similar</p>
       <p class="count" id="count"></p>
       <div class="header-actions">
