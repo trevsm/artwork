@@ -312,10 +312,10 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Constable_-_The_Hay-Wain_-_WGA5191.jpg/960px-John_Constable_-_The_Hay-Wain_-_WGA5191.jpg",
-    "title": "The Hay Wain",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/John_Constable_-_Sketch_for_%22The_Haywain%22_-_Google_Art_Project.jpg/960px-John_Constable_-_Sketch_for_%22The_Haywain%22_-_Google_Art_Project.jpg",
+    "title": "Sketch for \"The Haywain\" - Google Art Project",
     "artist": "John Constable",
-    "year": 1821,
+    "year": null,
     "professional": true,
     "style": "English Landscape"
   },
@@ -416,14 +416,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Thomas_Cole_-_The_Oxbow_%28Met%29.jpg/960px-Thomas_Cole_-_The_Oxbow_%28Met%29.jpg",
-    "title": "The Oxbow (Met)",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thomas_Cole_-_The_Voyage_of_Life_Childhood%2C_1842_%28National_Gallery_of_Art%29.jpg/960px-Thomas_Cole_-_The_Voyage_of_Life_Childhood%2C_1842_%28National_Gallery_of_Art%29.jpg",
     "title": "The Voyage of Life Childhood, 1842 (National Gallery of Art)",
     "artist": "Thomas Cole",
@@ -440,24 +432,8 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northamptom%2C_Massachusetts%2C_after_a_Thunderstorm_%28The_Oxbow%29_-_WGA5146.jpg/960px-Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northamptom%2C_Massachusetts%2C_after_a_Thunderstorm_%28The_Oxbow%29_-_WGA5146.jpg",
-    "title": "View from Mount Holyoke, Northamptom, Massachusetts, after a Thunderstorm (The Oxbow) - WGA5146",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Thomas_Cole_-_Wooded_Landscape_with_Figures_-_39.590_-_Detroit_Institute_of_Arts.jpg/960px-Thomas_Cole_-_Wooded_Landscape_with_Figures_-_39.590_-_Detroit_Institute_of_Arts.jpg",
     "title": "Wooded Landscape with Figures - 39.590 - Detroit Institute of Arts",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-007.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-007.jpg",
-    "title": "View from Mount Holyoke (The Oxbow)",
     "artist": "Thomas Cole",
     "year": null,
     "professional": true,
@@ -1040,38 +1016,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Constables_The_Hay_Wain.png",
-    "title": "Constables The Hay Wain",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/John_Constable_-_Sketch_for_%22The_Haywain%22_-_Google_Art_Project.jpg/960px-John_Constable_-_Sketch_for_%22The_Haywain%22_-_Google_Art_Project.jpg",
-    "title": "Sketch for \"The Haywain\" - Google Art Project",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/John_Constable_-_The_Hay-Wain_%28detail%29_-_WGA5192.jpg/960px-John_Constable_-_The_Hay-Wain_%28detail%29_-_WGA5192.jpg",
-    "title": "The Hay-Wain (detail) - WGA5192",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/960px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
-    "title": "The Hay Wain (1821)",
-    "artist": "John Constable",
-    "year": 1821,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/John_Constable_-_Wivenhoe_Park%2C_Essex_-_Google_Art_Project.jpg/960px-John_Constable_-_Wivenhoe_Park%2C_Essex_-_Google_Art_Project.jpg",
     "title": "Wivenhoe Park, Essex - Google Art Project",
     "artist": "John Constable",
@@ -1568,14 +1512,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Martin_Johnson_Heade_-_Two_Orchids_in_a_mountain_Landscape.jpg",
-    "title": "Two Orchids in a mountain Landscape",
-    "artist": "Martin Johnson Heade",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Martin_Johnson_Heade_Marshfield_Meadows_Amon_Carter_Museum.jpg/960px-Martin_Johnson_Heade_Marshfield_Meadows_Amon_Carter_Museum.jpg",
     "title": "Marshfield Meadows Amon Carter Museum",
     "artist": "Martin Johnson Heade",
@@ -1944,26 +1880,10 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Landscape_with_Haywain_by_Worthington_Whittredge%2C_1861.JPG/960px-Landscape_with_Haywain_by_Worthington_Whittredge%2C_1861.JPG",
-    "title": "Landscape with Haywain by , 1861",
-    "artist": "Worthington Whittredge",
-    "year": 1861,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Whittredge%2C_Worthington_-_Landscape_-_Google_Art_Project.jpg/960px-Whittredge%2C_Worthington_-_Landscape_-_Google_Art_Project.jpg",
     "title": "Whittredge, Worthington - Landscape - Google Art Project",
     "artist": "Worthington Whittredge",
     "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Worthington_Whittredge_-_Landscape_with_Haywain_-_1975.20_-_Cleveland_Museum_of_Art.tiff/lossy-page1-960px-Worthington_Whittredge_-_Landscape_with_Haywain_-_1975.20_-_Cleveland_Museum_of_Art.tiff.jpg",
-    "title": "Landscape with Haywain - 1975.20 - Cleveland Museum of Art.tiff",
-    "artist": "Worthington Whittredge",
-    "year": 1975,
     "professional": true,
     "style": "Hudson River School"
   },
@@ -2464,22 +2384,6 @@
     "style": "Landscape"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jean-Francois_Millet_and_the_Barbizon_school_%28IA_gri_33125009879079%29.pdf/page1-960px-Jean-Francois_Millet_and_the_Barbizon_school_%28IA_gri_33125009879079%29.pdf.jpg",
-    "title": "Jean-Francois and the Barbizon school (IA gri 33125009879079).pdf",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Barbizon_school_of_painters-_%28IA_gri_33125008541878%29.pdf/page1-960px-The_Barbizon_school_of_painters-_%28IA_gri_33125008541878%29.pdf.jpg",
-    "title": "The Barbizon school of painters- (IA gri 33125008541878).pdf",
-    "artist": "The Barbizon school of painters",
-    "year": null,
-    "professional": true,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Trouillebert_Paysage_aux_Lavandieres.jpg/960px-Trouillebert_Paysage_aux_Lavandieres.jpg",
     "title": "Trouillebert Paysage aux Lavandieres",
     "artist": "L\u00e9on Trouillebert",
@@ -2952,14 +2856,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9%2C_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA.%281844-1927%29.%D0%9D%D0%B0%D1%87.1910-%D1%85%D0%B3%D0%B3_polenov-054.jpg",
-    "title": "\u041f\u043e\u043b\u0435\u043d\u043e\u0432 \u0412\u0430\u0441\u0438\u043b\u0438\u0439, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a.(1844-1927).\u041d\u0430\u0447.1910-\u0445\u0433\u0433 -054",
-    "artist": "Vasily Polenov",
-    "year": 1844,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arkhip_Kuindzhi.jpg",
     "title": "Arkhip",
     "artist": "Arkhip Kuindzhi",
@@ -3320,22 +3216,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Th%C3%A9odore_Rousseau_-_Landscape_-_1975.668_-_Art_Institute_of_Chicago.jpg/960px-Th%C3%A9odore_Rousseau_-_Landscape_-_1975.668_-_Art_Institute_of_Chicago.jpg",
-    "title": "Th\u00e9odore - Landscape - 1975.668 - Art Institute of Chicago",
-    "artist": "Th\u00e9odore Rousseau",
-    "year": 1975,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Th%C3%A9odore_Rousseau_-_Landscape_-_1977.604_-_Art_Institute_of_Chicago.jpg/960px-Th%C3%A9odore_Rousseau_-_Landscape_-_1977.604_-_Art_Institute_of_Chicago.jpg",
-    "title": "Th\u00e9odore - Landscape - 1977.604 - Art Institute of Chicago",
-    "artist": "Th\u00e9odore Rousseau",
-    "year": 1977,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Th%C3%A9odore_Rousseau_-_Landscape_-_551-1957_-_Saint_Louis_Art_Museum.jpg/960px-Th%C3%A9odore_Rousseau_-_Landscape_-_551-1957_-_Saint_Louis_Art_Museum.jpg",
     "title": "Th\u00e9odore - Landscape - 551-1957 - Saint Louis Art Museum",
     "artist": "Th\u00e9odore Rousseau",
@@ -3456,14 +3336,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heade_-_Hummingbirds_and_Orchids_-_HNT.jpg/960px-Heade_-_Hummingbirds_and_Orchids_-_HNT.jpg",
-    "title": "Hummingbirds and Orchids - HNT",
-    "artist": "Martin Johnson Heade",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Martin-johnson-heade.jpg",
     "title": "Martin-johnson",
     "artist": "Martin Johnson Heade",
@@ -3474,14 +3346,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Martin_Johnson_Heade_-_Haystacks.jpg/960px-Martin_Johnson_Heade_-_Haystacks.jpg",
     "title": "Martin Johnson - Haystacks",
-    "artist": "Martin Johnson Heade",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Martin_Johnson_Heade_-_Orchids_and_Hummingbird_ATC.jpg",
-    "title": "Martin Johnson - Orchids and Hummingbird ATC",
     "artist": "Martin Johnson Heade",
     "year": null,
     "professional": true,
@@ -3808,14 +3672,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jean-Fran%C3%A7ois_Millet_%28II%29_001.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_001.jpg",
-    "title": "Jean-Fran\u00e7ois (II) 001",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/960px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
     "title": "Jean-Fran\u00e7ois - Gleaners - Google Art Project 2",
     "artist": "Jean-Fran\u00e7ois Millet",
@@ -3867,14 +3723,6 @@
     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Thomas_Cole_-_Catskill_Scenery.jpg",
     "title": "Thomas - Catskill Scenery",
     "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/-Sanford_Robinson_Gifford-_MET_DP-386-101.jpg/960px--Sanford_Robinson_Gifford-_MET_DP-386-101.jpg",
-    "title": "Sanford Robinson - MET DP-386-101",
-    "artist": "Sanford Robinson Gifford",
     "year": null,
     "professional": true,
     "style": "Hudson River School"
@@ -4302,30 +4150,6 @@
     "year": 1983,
     "professional": true,
     "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northamptom%2C_Massachusetts%2C_after_a_Thunderstorm_%28detail%29_-_WGA5147.jpg/960px-Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northamptom%2C_Massachusetts%2C_after_a_Thunderstorm_%28detail%29_-_WGA5147.jpg",
-    "title": "Thomas Cole - View from Mount Holyoke, Northamptom, Massachusetts, after a Thunderstorm (detail) - WGA5147",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm-The_Oxbow.jpg/960px-Thomas_Cole_-_View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm-The_Oxbow.jpg",
-    "title": "Thomas Cole - View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm-The Oxbow",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-001.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-001.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-001",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg/960px-Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
@@ -5096,14 +4920,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Asher_Brown_Durand_-_Sarah_Eliot_Scoville_-_1994.119_-_Cleveland_Museum_of_Art.tiff/lossy-page1-960px-Asher_Brown_Durand_-_Sarah_Eliot_Scoville_-_1994.119_-_Cleveland_Museum_of_Art.tiff.jpg",
-    "title": "Asher Brown Durand - Sarah Eliot Scoville - 1994.119 - Cleveland Museum of Art.tiff",
-    "artist": "Asher Brown Durand",
-    "year": 1994,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Asher_Brown_Durand_-_Study_of_Trees_-_2016.106.1_-_Yale_University_Art_Gallery.jpg/960px-Asher_Brown_Durand_-_Study_of_Trees_-_2016.106.1_-_Yale_University_Art_Gallery.jpg",
     "title": "Asher Brown Durand - Study of Trees - 2016.106.1 - Yale University Art Gallery",
     "artist": "Asher Brown Durand",
@@ -5618,14 +5434,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sanford_Robinson_Gifford_-_Windsor_Castle_-_13.837_-_Rhode_Island_School_of_Design_Museum.jpg",
     "title": "Sanford Robinson Gifford - Windsor Castle - 13.837 - Rhode Island School of Design Museum",
-    "artist": "Sanford Robinson Gifford",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg/960px-Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg",
-    "title": "Windsor Castle Upper Ward Quadrangle 2 - Nov 2006",
     "artist": "Sanford Robinson Gifford",
     "year": null,
     "professional": true,
@@ -6264,14 +6072,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ilya_Repin%2C_Vasily_Polenov%2C_Vladimir_Makovsky_%E2%80%94_The_Bouquet_of_Flowers_%28end_of_XIX_c.%29.jpg",
-    "title": "Ilya Repin, Vasily Polenov, Vladimir Makovsky \u2014 The Bouquet of Flowers (end of XIX c.)",
-    "artist": "Vasily Polenov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Moscow_Courtyard_%28Polenov%2C_1878%29.jpg/960px-Moscow_Courtyard_%28Polenov%2C_1878%29.jpg",
     "title": "Moscow Courtyard (Polenov, 1878)",
     "artist": "Vasily Polenov",
@@ -6322,14 +6122,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Polenov_ranniy_sneg.jpg/960px-Polenov_ranniy_sneg.jpg",
     "title": "Polenov ranniy sneg",
-    "artist": "Vasily Polenov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/P%C3%B5lenud_mets%2C_Vassili_Polenov%2C_TKM_TR_1639_M_339.jpg/960px-P%C3%B5lenud_mets%2C_Vassili_Polenov%2C_TKM_TR_1639_M_339.jpg",
-    "title": "P\u00f5lenud mets, Vassili Polenov, TKM TR 1639 M 339",
     "artist": "Vasily Polenov",
     "year": null,
     "professional": true,
@@ -6496,14 +6288,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fyodor_Vasilyev_Boat_11005.jpg",
-    "title": "Fyodor Vasilyev Boat 11005",
-    "artist": "Fyodor Vasilyev",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fyodor_Vasilyev_Cloud_Study.jpg",
     "title": "Fyodor Vasilyev Cloud Study",
     "artist": "Fyodor Vasilyev",
@@ -6576,14 +6360,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fyodor_Vasilyev_Rye_11001.jpg",
-    "title": "Fyodor Vasilyev Rye 11001",
-    "artist": "Fyodor Vasilyev",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fyodor_Vasilyev_Sunset_on_the_Volga.jpg",
     "title": "Fyodor Vasilyev Sunset on the Volga",
     "artist": "Fyodor Vasilyev",
@@ -6610,14 +6386,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Fyodor_Vasilyev_The_Thaw_gtg.jpg",
     "title": "Fyodor Vasilyev The Thaw gtg",
-    "artist": "Fyodor Vasilyev",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fyodor_Vasilyev_Winter_11010.jpg",
-    "title": "Fyodor Vasilyev Winter 11010",
     "artist": "Fyodor Vasilyev",
     "year": null,
     "professional": true,
@@ -6658,14 +6426,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fyodor_Vasilyev_Cypresses_in_the_Crimea.jpg",
     "title": "Fyodor Vasilyev Cypresses in the Crimea",
-    "artist": "Fyodor Vasilyev",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fyodor_Vasilyev_Dawn_11008.jpg",
-    "title": "Fyodor Vasilyev Dawn 11008",
     "artist": "Fyodor Vasilyev",
     "year": null,
     "professional": true,
@@ -6722,14 +6482,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fyodor_Vasilyev_Logs_by_the_road.jpg",
     "title": "Fyodor Vasilyev Logs by the road",
-    "artist": "Fyodor Vasilyev",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Fyodor_Vasilyev_Morning_11015.jpg",
-    "title": "Fyodor Vasilyev Morning 11015",
     "artist": "Fyodor Vasilyev",
     "year": null,
     "professional": true,
@@ -7040,14 +6792,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Dekoratsioonikavand%5E%2C_Konstantin_Korovin%2C_EKM_j_38253_VM_953.jpg",
-    "title": "Dekoratsioonikavand^, Konstantin Korovin, EKM j 38253 VM 953",
-    "artist": "Konstantin Korovin",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/K._Korovin_-_In_the_boat.jpg",
     "title": "K. Korovin - In the boat",
     "artist": "Konstantin Korovin",
@@ -7154,22 +6898,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Korovin_Paper_Lanterns.jpg",
     "title": "Korovin Paper Lanterns",
-    "artist": "Konstantin Korovin",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pariis_%C3%B5htul%2C_Konstantin_Korovin%2C_EKM_j_3245_VM_409.jpg",
-    "title": "Pariis \u00f5htul, Konstantin Korovin, EKM j 3245 VM 409",
-    "artist": "Konstantin Korovin",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Teemaja_Krimmis%2C_Konstantin_Korovin%2C_EKM_j_2076_VM_357.jpg/960px-Teemaja_Krimmis%2C_Konstantin_Korovin%2C_EKM_j_2076_VM_357.jpg",
-    "title": "Teemaja Krimmis, Konstantin Korovin, EKM j 2076 VM 357",
     "artist": "Konstantin Korovin",
     "year": null,
     "professional": true,
@@ -7552,14 +7280,6 @@
     "style": "English Landscape"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Constable_013.jpg/960px-John_Constable_013.jpg",
-    "title": "John Constable 013",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/John_Constable_carro_de_feno.jpg",
     "title": "John Constable carro de feno",
     "artist": "John Constable",
@@ -7572,22 +7292,6 @@
     "title": "John constable, il carro di fieno, 1821, 01",
     "artist": "John Constable",
     "year": 1821,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Hay_Wain_-_geograph.org.uk_-_3707193.jpg/960px-The_Hay_Wain_-_geograph.org.uk_-_3707193.jpg",
-    "title": "The Hay Wain - geograph.org.uk - 3707193",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Hay_Wain_-_geograph.org.uk_-_4151629.jpg/960px-The_Hay_Wain_-_geograph.org.uk_-_4151629.jpg",
-    "title": "The Hay Wain - geograph.org.uk - 4151629",
-    "artist": "John Constable",
-    "year": null,
     "professional": true,
     "style": "English Landscape"
   },
@@ -7682,14 +7386,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Caspar_David_Friedrich_-_Zum_Licht_hinaufsteigende_Frau.jpg/960px-Caspar_David_Friedrich_-_Zum_Licht_hinaufsteigende_Frau.jpg",
     "title": "Caspar David Friedrich - Zum Licht hinaufsteigende Frau",
-    "artist": "Caspar David Friedrich",
-    "year": null,
-    "professional": true,
-    "style": "German Romantic"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Caspar_David_Friedrich_069.jpg/960px-Caspar_David_Friedrich_069.jpg",
-    "title": "Caspar David Friedrich 069",
     "artist": "Caspar David Friedrich",
     "year": null,
     "professional": true,
@@ -7992,14 +7688,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jean-Baptiste-Camille_Corot_010.jpg/960px-Jean-Baptiste-Camille_Corot_010.jpg",
-    "title": "Jean-Baptiste-Camille Corot 010",
-    "artist": "Jean-Baptiste-Camille Corot",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jean-Baptiste_Camille_Corot_-_Landscape_at_Coubron_-_NG_1037_-_National_Galleries_of_Scotland.jpg",
     "title": "Jean-Baptiste Camille Corot - Landscape at Coubron - NG 1037 - National Galleries of Scotland",
     "artist": "Jean-Baptiste-Camille Corot",
@@ -8258,30 +7946,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Harry_Watrous_and_Thomas_Moran_signed_palettes.jpg",
     "title": "Harry Watrous and Thomas Moran signed palettes",
-    "artist": "Thomas Moran",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167452.jpg/960px-Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167452.jpg",
-    "title": "Letters of Mr. and Mrs. Thomas Moran MET DP167452",
-    "artist": "Thomas Moran",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167453.jpg/960px-Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167453.jpg",
-    "title": "Letters of Mr. and Mrs. Thomas Moran MET DP167453",
-    "artist": "Thomas Moran",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167454.jpg/960px-Letters_of_Mr._and_Mrs._Thomas_Moran_MET_DP167454.jpg",
-    "title": "Letters of Mr. and Mrs. Thomas Moran MET DP167454",
     "artist": "Thomas Moran",
     "year": null,
     "professional": true,
@@ -8604,30 +8268,6 @@
     "title": "Jasper Francis Cropsey - Summer Landscape, Haymaking (after American Harvesting) - 47.1235 - Museum of Fine Arts",
     "artist": "Jasper Francis Cropsey",
     "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jasper_Francis_Cropsey_-_Untitled_-_1977.1.1B_-_Smithsonian_American_Art_Museum.jpg/960px-Jasper_Francis_Cropsey_-_Untitled_-_1977.1.1B_-_Smithsonian_American_Art_Museum.jpg",
-    "title": "Jasper Francis Cropsey - Untitled - 1977.1.1B - Smithsonian American Art Museum",
-    "artist": "Jasper Francis Cropsey",
-    "year": 1977,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jasper_Francis_Cropsey_-_Untitled_-_1977.1.6_-_Smithsonian_American_Art_Museum.jpg/960px-Jasper_Francis_Cropsey_-_Untitled_-_1977.1.6_-_Smithsonian_American_Art_Museum.jpg",
-    "title": "Jasper Francis Cropsey - Untitled - 1977.1.6 - Smithsonian American Art Museum",
-    "artist": "Jasper Francis Cropsey",
-    "year": 1977,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jasper_Francis_Cropsey_-_Untitled_-_1977.1.7_-_Smithsonian_American_Art_Museum.jpg/960px-Jasper_Francis_Cropsey_-_Untitled_-_1977.1.7_-_Smithsonian_American_Art_Museum.jpg",
-    "title": "Jasper Francis Cropsey - Untitled - 1977.1.7 - Smithsonian American Art Museum",
-    "artist": "Jasper Francis Cropsey",
-    "year": 1977,
     "professional": true,
     "style": "Hudson River School"
   },
@@ -9160,14 +8800,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Martin_Johnson_Heade-Cattleya_Orchid_and_Three_Brazilian_Hummingbirds.jpg/960px-Martin_Johnson_Heade-Cattleya_Orchid_and_Three_Brazilian_Hummingbirds.jpg",
-    "title": "Martin Johnson Heade-Cattleya Orchid and Three Brazilian Hummingbirds",
-    "artist": "Martin Johnson Heade",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Martin_Johnson_Heade_-_Amethyst_Woodstar_-_2006.84_-_Crystal_Bridges_Museum_of_American_Art.jpg",
     "title": "Martin Johnson Heade - Amethyst Woodstar - 2006.84 - Crystal Bridges Museum of American Art",
     "artist": "Martin Johnson Heade",
@@ -9352,14 +8984,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Martin_Johnson_Heade_-_Orchid_Blossoms_-_461.1915_-_Cleveland_Museum_of_Art.tiff/lossy-page1-960px-Martin_Johnson_Heade_-_Orchid_Blossoms_-_461.1915_-_Cleveland_Museum_of_Art.tiff.jpg",
-    "title": "Martin Johnson Heade - Orchid Blossoms - 461.1915 - Cleveland Museum of Art.tiff",
-    "artist": "Martin Johnson Heade",
-    "year": 1915,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Martin_Johnson_Heade_-_Point_Judith%2C_Rhode_Island_-_1970.161_-_Cleveland_Museum_of_Art.tiff/lossy-page1-960px-Martin_Johnson_Heade_-_Point_Judith%2C_Rhode_Island_-_1970.161_-_Cleveland_Museum_of_Art.tiff.jpg",
     "title": "Martin Johnson Heade - Point Judith, Rhode Island - 1970.161 - Cleveland Museum of Art.tiff",
     "artist": "Martin Johnson Heade",
@@ -9516,14 +9140,6 @@
     "title": "Worthington Whittredge - Trout Fishing in the Catskills - 1921.199.1 - Reading Public Museum",
     "artist": "Worthington Whittredge",
     "year": 1921,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Worthington_Whittredge_-_Twilight_on_the_Plains%2C_Platte_River%2C_Colorado_-_promised_gift_109_twilight-on-the-plains-platte-river-colorado_-_Crystal_Bridges_Museum_of_American_Art.jpg/960px-thumbnail.jpg",
-    "title": "Worthington Whittredge - Twilight on the Plains, Platte River, Colorado - promised gift 109 twilight-on-the-plains-platt",
-    "artist": "Worthington Whittredge",
-    "year": null,
     "professional": true,
     "style": "Hudson River School"
   },
@@ -9868,14 +9484,6 @@
     "title": "Ivan Konstantinovich Aivazovsky - Shipwreck on a Stormy Morning, 1895",
     "artist": "Ivan Aivazovsky",
     "year": 1895,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Iwan_Konstantinowitsch_Aiwasowskij_001.jpg/960px-Iwan_Konstantinowitsch_Aiwasowskij_001.jpg",
-    "title": "Iwan Konstantinowitsch Aiwasowskij 001",
-    "artist": "Ivan Aivazovsky",
-    "year": null,
     "professional": true,
     "style": "Russian Realism"
   },
@@ -10368,14 +9976,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Augustins_-_Le_Ruisseau_du_puits_noir_-_Gustave_Courbet_-_1865_Inv._Ro_662.jpg/960px-Augustins_-_Le_Ruisseau_du_puits_noir_-_Gustave_Courbet_-_1865_Inv._Ro_662.jpg",
-    "title": "Augustins - Le Ruisseau du puits noir - Gustave Courbet - 1865 Inv. Ro 662",
-    "artist": "Gustave Courbet",
-    "year": 1865,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg/960px-Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg",
     "title": "Gustave Courbet - A Burial at Ornans - Google Art Project 2",
     "artist": "Gustave Courbet",
@@ -10452,22 +10052,6 @@
     "title": "Gustave Courbet - The Wave (1869, Scottish National Gallery)",
     "artist": "Gustave Courbet",
     "year": 1869,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gustave_Courbet_014.jpg/960px-Gustave_Courbet_014.jpg",
-    "title": "Gustave Courbet 014",
-    "artist": "Gustave Courbet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustave_Courbet_040.jpg/960px-Gustave_Courbet_040.jpg",
-    "title": "Gustave Courbet 040",
-    "artist": "Gustave Courbet",
-    "year": null,
     "professional": true,
     "style": "Barbizon School"
   },
@@ -10568,22 +10152,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gustave_Courbet_022.jpg/960px-Gustave_Courbet_022.jpg",
-    "title": "Gustave Courbet 022",
-    "artist": "Gustave Courbet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gustave_Courbet_046.jpg/960px-Gustave_Courbet_046.jpg",
-    "title": "Gustave Courbet 046",
-    "artist": "Gustave Courbet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Landscape_from_La_Source_Bleue_%28Gustave_Courbet%29_-_Nationalmuseum_-_19226.tif/lossy-page1-960px-Landscape_from_La_Source_Bleue_%28Gustave_Courbet%29_-_Nationalmuseum_-_19226.tif.jpg",
     "title": "Landscape from La Source Bleue (Gustave Courbet) - Nationalmuseum - 19226",
     "artist": "Gustave Courbet",
@@ -10632,30 +10200,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg",
-    "title": "Jean-Fran\u00e7ois Millet (II) 002",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jean-Fran%C3%A7ois_Millet_%28II%29_006.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_006.jpg",
-    "title": "Jean-Fran\u00e7ois Millet (II) 006",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jean-Fran%C3%A7ois_Millet_%28II%29_010.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_010.jpg",
-    "title": "Jean-Fran\u00e7ois Millet (II) 010",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jean-Fran%C3%A7ois_Millet_-_Femme_filature_%281855-60%29.jpg/960px-Jean-Fran%C3%A7ois_Millet_-_Femme_filature_%281855-60%29.jpg",
     "title": "Jean-Fran\u00e7ois Millet - Femme filature (1855-60)",
     "artist": "Jean-Fran\u00e7ois Millet",
@@ -10676,14 +10220,6 @@
     "title": "Jean-Fran\u00e7ois Millet - Millet's Family Home at Gruchy - 93.1461 - Museum of Fine Arts",
     "artist": "Jean-Fran\u00e7ois Millet",
     "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jean-Fran%C3%A7ois_Millet_-_Monsieur_Martin_-_1980.270_-_Cleveland_Museum_of_Art.tiff/lossy-page1-960px-Jean-Fran%C3%A7ois_Millet_-_Monsieur_Martin_-_1980.270_-_Cleveland_Museum_of_Art.tiff.jpg",
-    "title": "Jean-Fran\u00e7ois Millet - Monsieur Martin - 1980.270 - Cleveland Museum of Art.tiff",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": 1980,
     "professional": true,
     "style": "Barbizon School"
   },
@@ -10772,22 +10308,6 @@
     "title": "Jean-Fran\u00e7ois Millet (1814-1875) (forgery in the manner of) - Landscape with Cows, Cowherd and Dog - P.1965.XX.270 - Cou",
     "artist": "Jean-Fran\u00e7ois Millet",
     "year": 1814,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jean-Fran%C3%A7ois_Millet_%28II%29_003.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_003.jpg",
-    "title": "Jean-Fran\u00e7ois Millet (II) 003",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jean-Fran%C3%A7ois_Millet_%28II%29_004.jpg/960px-Jean-Fran%C3%A7ois_Millet_%28II%29_004.jpg",
-    "title": "Jean-Fran\u00e7ois Millet (II) 004",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
     "professional": true,
     "style": "Barbizon School"
   },
@@ -11154,14 +10674,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Turner_-_Landscape%2C_%D0%93%D0%AD-7011.jpg/960px-Turner_-_Landscape%2C_%D0%93%D0%AD-7011.jpg",
     "title": "Turner - Landscape, \u0413\u042d-7011",
-    "artist": "J.M.W. Turner",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_of_the_%E2%80%9CExperiments_on_Canvas%E2%80%9D_room%2C_Clore_Gallery%2C_Tate_Britain%2C_with_works_by_J._M._W._Turner_and_Mark_Rothko.jpg/960px-View_of_the_%E2%80%9CExperiments_on_Canvas%E2%80%9D_room%2C_Clore_Gallery%2C_Tate_Britain%2C_with_works_by_J._M._W._Turner_and_Mark_Rothko.jpg",
-    "title": "View of the \u201cExperiments on Canvas\u201d room, Clore Gallery, Tate Britain, with works by J. M. W. Turner and Mark Rothko",
     "artist": "J.M.W. Turner",
     "year": null,
     "professional": true,
@@ -11720,14 +11232,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Charles-Fran%C3%A7ois_Daubigny_011.jpg",
-    "title": "Charles-Fran\u00e7ois Daubigny 011",
-    "artist": "Charles-Fran\u00e7ois Daubigny",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Charles_Fran%C3%A7ois_Daubigny_-_Landscape%2C_Evening_-_UMMA.jpg/960px-Charles_Fran%C3%A7ois_Daubigny_-_Landscape%2C_Evening_-_UMMA.jpg",
     "title": "Charles Fran\u00e7ois Daubigny - Landscape, Evening - UMMA",
     "artist": "Charles-Fran\u00e7ois Daubigny",
@@ -12120,14 +11624,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%A0%D1%8B%D0%BB%D0%BE%D0%B2_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F%D0%BA%D0%BE%D0%BC_1903_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/960px-thumbnail.jpg",
-    "title": "\u0420\u044b\u043b\u043e\u0432 \u0410\u0440\u043a\u0430\u0434\u0438\u0439 \u0414\u043e\u0440\u043e\u0433\u0430 \u0431\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u043e\u043c 1903 \u0433\u043e\u0434\u0430 \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439",
-    "artist": "Arkady Rylov",
-    "year": 1903,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1972_CPA_4193.jpg/960px-1972_CPA_4193.jpg",
     "title": "1972 CPA 4193",
     "artist": "Arkady Rylov",
@@ -12216,120 +11712,8 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mikhail_Nesterov_002.jpg/960px-Mikhail_Nesterov_002.jpg",
-    "title": "Mikhail Nesterov 002",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mikhail_Nesterov_003.jpg/960px-Mikhail_Nesterov_003.jpg",
-    "title": "Mikhail Nesterov 003",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mikhail_Nesterov_009.jpeg",
-    "title": "Mikhail Nesterov 009",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mikhail_Nesterov_009_-_variation_%28GRM%29.jpg/960px-Mikhail_Nesterov_009_-_variation_%28GRM%29.jpg",
     "title": "Mikhail Nesterov 009 - variation (GRM)",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mikhail_Nesterov_010.jpeg/960px-Mikhail_Nesterov_010.jpeg",
-    "title": "Mikhail Nesterov 010",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mikhail_Nesterov_022.jpeg",
-    "title": "Mikhail Nesterov 022",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mikhail_Nesterov_025.jpeg/960px-Mikhail_Nesterov_025.jpeg",
-    "title": "Mikhail Nesterov 025",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mikhail_Nesterov_028.jpeg/960px-Mikhail_Nesterov_028.jpeg",
-    "title": "Mikhail Nesterov 028",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mikhail_Nesterov_030.jpeg/960px-Mikhail_Nesterov_030.jpeg",
-    "title": "Mikhail Nesterov 030",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mikhail_Nesterov_041.jpg",
-    "title": "Mikhail Nesterov 041",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mikhail_Nesterov_044.jpg",
-    "title": "Mikhail Nesterov 044",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mikhail_Nesterov_047.jpg",
-    "title": "Mikhail Nesterov 047",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mikhail_Nesterov_049.jpg/960px-Mikhail_Nesterov_049.jpg",
-    "title": "Mikhail Nesterov 049",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mikhail_Nesterov_050.jpg",
-    "title": "Mikhail Nesterov 050",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mikhail_Nesterov_053.jpg",
-    "title": "Mikhail Nesterov 053",
     "artist": "Mikhail Nesterov",
     "year": null,
     "professional": true,
@@ -12480,80 +11864,8 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%27Still_Life_with_Trophy_of_Game%27_by_George_Hetzel%2C_Dayton_Art_Institute.JPG/960px-%27Still_Life_with_Trophy_of_Game%27_by_George_Hetzel%2C_Dayton_Art_Institute.JPG",
-    "title": "'Still Life with Trophy of Game' by George Hetzel, Dayton Art Institute",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%28Venice%29_Still_life_with_armor_by_Francesco_Noletti_-_Correr_Museum.jpg/960px-%28Venice%29_Still_life_with_armor_by_Francesco_Noletti_-_Correr_Museum.jpg",
-    "title": "(Venice) Still life with armor by Francesco Noletti - Correr Museum",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%28Venice%29_Still_life_with_sculpture_-_Gallerie_Accademia.jpg/960px-%28Venice%29_Still_life_with_sculpture_-_Gallerie_Accademia.jpg",
-    "title": "(Venice) Still life with sculpture - Gallerie Accademia",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/A_River_Landscape_%28Hetzel%29.jpg/960px-A_River_Landscape_%28Hetzel%29.jpg",
     "title": "A River Landscape (Hetzel)",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Amalie_Kaercher_-_A_Flower_Still_Life_with_Grapes%2C_1857.jpg/960px-Amalie_Kaercher_-_A_Flower_Still_Life_with_Grapes%2C_1857.jpg",
-    "title": "Amalie Kaercher - A Flower Still Life with Grapes, 1857",
-    "artist": "George Hetzel",
-    "year": 1857,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg/960px-Ambrosius_Bosschaert_the_Elder_%28Dutch_-_Flower_Still_Life_-_Google_Art_Project.jpg",
-    "title": "Ambrosius Bosschaert the Elder (Dutch - Flower Still Life - Google Art Project",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Banquet_Still_Life%2C_Adriaen_van_Utrecht%2C_1644_-_Rijksmuseum.jpg/960px-Banquet_Still_Life%2C_Adriaen_van_Utrecht%2C_1644_-_Rijksmuseum.jpg",
-    "title": "Banquet Still Life, Adriaen van Utrecht, 1644 - Rijksmuseum",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Clara_Peeters_-_Still_Life_with_Cheeses%2C_Almonds_and_Pretzels.jpg/960px-Clara_Peeters_-_Still_Life_with_Cheeses%2C_Almonds_and_Pretzels.jpg",
-    "title": "Clara Peeters - Still Life with Cheeses, Almonds and Pretzels",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fernand_L%C3%A9ger_Still_Life_with_Candlestick_1922.jpg/960px-Fernand_L%C3%A9ger_Still_Life_with_Candlestick_1922.jpg",
-    "title": "Fernand L\u00e9ger Still Life with Candlestick 1922",
-    "artist": "George Hetzel",
-    "year": 1922,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frans_Snyders_-_Still_Life_with_a_Wine_Cooler_-_Google_Art_Project.jpg/960px-Frans_Snyders_-_Still_Life_with_a_Wine_Cooler_-_Google_Art_Project.jpg",
-    "title": "Frans Snyders - Still Life with a Wine Cooler - Google Art Project",
     "artist": "George Hetzel",
     "year": null,
     "professional": true,
@@ -12568,40 +11880,8 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Henri_Fantin-Latour_-_Still_life_%28primroses%2C_pears_and_pomegranates%29_-_Google_Art_Project.jpg/960px-Henri_Fantin-Latour_-_Still_life_%28primroses%2C_pears_and_pomegranates%29_-_Google_Art_Project.jpg",
-    "title": "Henri Fantin-Latour - Still life (primroses, pears and pomegranates) - Google Art Project",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Horseshoe_Bend_%28Hetzel%29.jpg",
     "title": "Horseshoe Bend (Hetzel)",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/John_F._Francis_-_Luncheon_Still_Life_-_Google_Art_Project.jpg/960px-John_F._Francis_-_Luncheon_Still_Life_-_Google_Art_Project.jpg",
-    "title": "John F. Francis - Luncheon Still Life - Google Art Project",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Julien_Alden_Weir_-_Still-life_%281900s%29.jpg/960px-Julien_Alden_Weir_-_Still-life_%281900s%29.jpg",
-    "title": "Julien Alden Weir - Still-life (1900s)",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Liotard%2C_Jean-%C3%89tienne_-_Still_Life-_Tea_Set_-_Google_Art_Project.jpg/960px-Liotard%2C_Jean-%C3%89tienne_-_Still_Life-_Tea_Set_-_Google_Art_Project.jpg",
-    "title": "Liotard, Jean-\u00c9tienne - Still Life- Tea Set - Google Art Project",
     "artist": "George Hetzel",
     "year": null,
     "professional": true,
@@ -12612,54 +11892,6 @@
     "title": "Pennsylvania Landscape by George Hetzel, 1872, oil ",
     "artist": "George Hetzel",
     "year": 1872,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Samuel_Peploe_-_Still_life-_apples_and_jar_-_Google_Art_Project.jpg/960px-Samuel_Peploe_-_Still_life-_apples_and_jar_-_Google_Art_Project.jpg",
-    "title": "Samuel Peploe - Still life- apples and jar - Google Art Project",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Still_Life_-_Pieter_Claesz.jpg/960px-Still_Life_-_Pieter_Claesz.jpg",
-    "title": "Still Life - Pieter Claesz",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Still_Life_with_Melons%2C_Grapes_S_195.jpeg",
-    "title": "Still Life with Melons, Grapes S 195",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Still_life_fleamarket_amk.jpg/960px-Still_life_fleamarket_amk.jpg",
-    "title": "Still life fleamarket amk",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Still_life_with_strawberries_in_a_crystal_bowl.jpg/960px-Still_life_with_strawberries_in_a_crystal_bowl.jpg",
-    "title": "Still life with strawberries in a crystal bowl",
-    "artist": "George Hetzel",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tromp-l%27oeil_Still-Life_1664_Hoogstraeten.jpg/960px-Tromp-l%27oeil_Still-Life_1664_Hoogstraeten.jpg",
-    "title": "Tromp-l'oeil Still-Life 1664 Hoogstraeten",
-    "artist": "George Hetzel",
-    "year": null,
     "professional": true,
     "style": "American Realism"
   },
@@ -13056,14 +12288,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/David_Johnson_-_Three_Pears_and_an_Apple_-_2003.152.1_-_National_Gallery_of_Art.jpg/960px-David_Johnson_-_Three_Pears_and_an_Apple_-_2003.152.1_-_National_Gallery_of_Art.jpg",
-    "title": "David Johnson - Three Pears and an Apple - 2003.152.1 - National Gallery of Art",
-    "artist": "David Johnson",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/David_Johnson_-_View_from_Garrison%2C_West_Point%2C_New_York_-_2012.6_-_Dallas_Museum_of_Art.jpg/960px-David_Johnson_-_View_from_Garrison%2C_West_Point%2C_New_York_-_2012.6_-_Dallas_Museum_of_Art.jpg",
     "title": "David Johnson - View from Garrison, West Point, New York - 2012.6 - Dallas Museum of Art",
     "artist": "David Johnson",
@@ -13130,14 +12354,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Near_Squam_Lake%2C_New_Hampshire_MET_ap17.110.jpg/960px-Near_Squam_Lake%2C_New_Hampshire_MET_ap17.110.jpg",
     "title": "Near Squam Lake, New Hampshire MET ap17.110",
-    "artist": "David Johnson",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/On_the_Unadilla%2C_New_York_MET_ap25.110.135.jpg/960px-On_the_Unadilla%2C_New_York_MET_ap25.110.135.jpg",
-    "title": "On the Unadilla, New York MET ap25.110.135",
     "artist": "David Johnson",
     "year": null,
     "professional": true,
@@ -13504,14 +12720,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Landscape_with_Rainbow_SAAM-1983.95.160_1FXD.jpg/960px-Landscape_with_Rainbow_SAAM-1983.95.160_1FXD.jpg",
-    "title": "Landscape with Rainbow SAAM-1983.95.160 1FXD",
-    "artist": "Robert Duncanson",
-    "year": 1983,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Minneopa_Falls_Duncanson_1862.jpg",
     "title": "Minneopa Falls Duncanson 1862",
     "artist": "Robert Duncanson",
@@ -13738,30 +12946,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Albert_Pinkham_Ryder_-_The_Waste_of_Waters_is_Their_Field_-_Google_Art_Project.jpg/960px-Albert_Pinkham_Ryder_-_The_Waste_of_Waters_is_Their_Field_-_Google_Art_Project.jpg",
     "title": "Albert Pinkham Ryder - The Waste of Waters is Their Field - Google Art Project",
-    "artist": "Albert Pinkham Ryder",
-    "year": null,
-    "professional": true,
-    "style": "American Tonalism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Pinkham_Ryder_001.jpg/960px-Albert_Pinkham_Ryder_001.jpg",
-    "title": "Albert Pinkham Ryder 001",
-    "artist": "Albert Pinkham Ryder",
-    "year": null,
-    "professional": true,
-    "style": "American Tonalism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Albert_Pinkham_Ryder_003.jpg/960px-Albert_Pinkham_Ryder_003.jpg",
-    "title": "Albert Pinkham Ryder 003",
-    "artist": "Albert Pinkham Ryder",
-    "year": null,
-    "professional": true,
-    "style": "American Tonalism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Albert_Pinkham_Ryder_004.jpg/960px-Albert_Pinkham_Ryder_004.jpg",
-    "title": "Albert Pinkham Ryder 004",
     "artist": "Albert Pinkham Ryder",
     "year": null,
     "professional": true,
