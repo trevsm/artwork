@@ -56,14 +56,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Thomas_Cole_-_Landscape_-_39.580_-_Detroit_Institute_of_Arts.jpg/960px-Thomas_Cole_-_Landscape_-_39.580_-_Detroit_Institute_of_Arts.jpg",
-    "title": "Landscape",
-    "artist": "Thomas Cole",
-    "year": 1840,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Thomas_Cole_-_The_Ages_of_Life_-_Youth_-_WGA05140.jpg/960px-Thomas_Cole_-_The_Ages_of_Life_-_Youth_-_WGA05140.jpg",
     "title": "The Ages of Life: Youth",
     "artist": "Thomas Cole",
@@ -81,22 +73,6 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pine_Forest_%28Ivan_Shishkin%29.jpg/960px-Pine_Forest_%28Ivan_Shishkin%29.jpg",
-    "title": "Pine Forest",
-    "artist": "Ivan Shishkin",
-    "year": 1895,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pine_Forest_by_Ivan_Shishkin_1895.jpg/960px-Pine_Forest_by_Ivan_Shishkin_1895.jpg",
-    "title": "Pine Forest",
-    "artist": "Ivan Shishkin",
-    "year": 1895,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pine_Forest_02_%28Ivan_Shishkin%29.jpg/960px-Pine_Forest_02_%28Ivan_Shishkin%29.jpg",
     "title": "Pine Forest",
     "artist": "Ivan Shishkin",
     "year": 1895,
@@ -168,14 +144,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Albert_Bierstadt_-_Landscape_%28Gilcrease_Museum%29.jpg/960px-Albert_Bierstadt_-_Landscape_%28Gilcrease_Museum%29.jpg",
-    "title": "Landscape",
-    "artist": "Albert Bierstadt",
-    "year": 1870,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_Niagara_Falls%2C_from_the_American_Side_-_Google_Art_Project.jpg/960px-Frederic_Edwin_Church_-_Niagara_Falls%2C_from_the_American_Side_-_Google_Art_Project.jpg",
     "title": "Niagara Falls, from the American Side",
     "artist": "Frederic Edwin Church",
@@ -228,14 +196,6 @@
     "title": "Landscape, Scene from Thanatopsis",
     "artist": "Asher Brown Durand",
     "year": 1850,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Asher_Brown_Durand_-_Landscape_%281867%29.jpg/960px-Asher_Brown_Durand_-_Landscape_%281867%29.jpg",
-    "title": "Landscape",
-    "artist": "Asher Brown Durand",
-    "year": 1867,
     "professional": true,
     "style": "Hudson River School"
   },
@@ -304,14 +264,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Isaac_Levitan-Paysage_de_Crim%C3%A9e-Mus%C3%A9e_Levitan.jpg/960px-Isaac_Levitan-Paysage_de_Crim%C3%A9e-Mus%C3%A9e_Levitan.jpg",
-    "title": "Crimean Landscape",
-    "artist": "Isaac Levitan",
-    "year": 1886,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Isaac_Levitan-Petite_gare-Mus%C3%A9e_Levitan.jpg/960px-Isaac_Levitan-Petite_gare-Mus%C3%A9e_Levitan.jpg",
     "title": "Small Station",
     "artist": "Isaac Levitan",
@@ -369,14 +321,6 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Constable_-_The_Hay-Wain_-_WGA5191.jpg/960px-John_Constable_-_The_Hay-Wain_-_WGA5191.jpg",
-    "title": "The Hay Wain",
-    "artist": "John Constable",
-    "year": 1821,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/John-constable-the-hay-wain.jpg/960px-John-constable-the-hay-wain.jpg",
     "title": "The Hay Wain",
     "artist": "John Constable",
     "year": 1821,
@@ -464,14 +408,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Thomas_Cole%2C_The_Oxbow.jpg/960px-Thomas_Cole%2C_The_Oxbow.jpg",
-    "title": "The Oxbow",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Thomas_Cole%2C_The_Voyage_of_Life%2C_1842%2C_National_Gallery_of_Art.jpg/960px-Thomas_Cole%2C_The_Voyage_of_Life%2C_1842%2C_National_Gallery_of_Art.jpg",
     "title": "The Voyage of Life, 1842, National Gallery of Art",
     "artist": "Thomas Cole",
@@ -529,11 +465,11 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-007.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-007.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-007",
-    "artist": "Unknown",
+    "title": "View from Mount Holyoke (The Oxbow)",
+    "artist": "Thomas Cole",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/For_Mushrooms_%28Shishkin%29.jpg/960px-For_Mushrooms_%28Shishkin%29.jpg",
@@ -730,14 +666,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Albert_Bierstadt_-_The_Rocky_Mountains%2C_Lander%27s_Peak.jpg/960px-Albert_Bierstadt_-_The_Rocky_Mountains%2C_Lander%27s_Peak.jpg",
     "title": "The Rocky Mountains, Lander's Peak",
-    "artist": "Albert Bierstadt",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Albert_Bierstadt_001.jpg/960px-Albert_Bierstadt_001.jpg",
-    "title": "001",
     "artist": "Albert Bierstadt",
     "year": null,
     "professional": true,
@@ -1120,14 +1048,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Crimea%2C_Ai-Petri%2C_low_clouds.jpg/960px-Crimea%2C_Ai-Petri%2C_low_clouds.jpg",
-    "title": "Crimea, Ai-Petri, low clouds",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kuindzhi_Ai-Petri_Crimea_1898_1908.jpg/960px-Kuindzhi_Ai-Petri_Crimea_1898_1908.jpg",
     "title": "Kuindzhi Ai-Petri Crimea 1898 1908",
     "artist": "Arkhip Kuindzhi",
@@ -1176,14 +1096,6 @@
     "style": "English Landscape"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/John_Constable_-_The_Hay_Wain.jpg/960px-John_Constable_-_The_Hay_Wain.jpg",
-    "title": "The Hay Wain",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/960px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
     "title": "The Hay Wain (1821)",
     "artist": "John Constable",
@@ -1200,36 +1112,12 @@
     "style": "English Landscape"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Constable_The_Hay_Wain.jpg/960px-John_Constable_The_Hay_Wain.jpg",
-    "title": "The Hay Wain",
-    "artist": "John Constable",
-    "year": null,
-    "professional": true,
-    "style": "English Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MuMA_-_Constable_-_Landscape.JPG/960px-MuMA_-_Constable_-_Landscape.JPG",
     "title": "MuMA - Constable - Landscape",
     "artist": "John Constable",
     "year": null,
     "professional": true,
     "style": "English Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/960px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
-    "title": "Wanderer above the sea of fog",
-    "artist": "Caspar David Friedrich",
-    "year": null,
-    "professional": true,
-    "style": "German Romantic"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Caspar_David_Friedrich_036.jpg/960px-Caspar_David_Friedrich_036.jpg",
-    "title": "036",
-    "artist": "Caspar David Friedrich",
-    "year": null,
-    "professional": true,
-    "style": "German Romantic"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Caspar_David_Friedrich_Paysage_de_Riesengebirge_avec_la_brume_montante.jpg/960px-Caspar_David_Friedrich_Paysage_de_Riesengebirge_avec_la_brume_montante.jpg",
@@ -1290,14 +1178,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jean-Baptiste-Camille_Corot_-_Landscape_with_Bridge_-_Walters_37152.jpg/960px-Jean-Baptiste-Camille_Corot_-_Landscape_with_Bridge_-_Walters_37152.jpg",
     "title": "Landscape with Bridge - Walters 37152",
-    "artist": "Jean-Baptiste-Camille Corot",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jean-Baptiste-Camille_Corot_007.jpg/960px-Jean-Baptiste-Camille_Corot_007.jpg",
-    "title": "007",
     "artist": "Jean-Baptiste-Camille Corot",
     "year": null,
     "professional": true,
@@ -2216,14 +2096,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mikhail_Nesterov_032.jpg/960px-Mikhail_Nesterov_032.jpg",
-    "title": "032",
-    "artist": "Mikhail Nesterov",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mikhail_Nesterov_%E2%80%94_Viktor_Vasnetsov%27s_dacha_in_Abramtsevo_%281916%29.jpg/960px-Mikhail_Nesterov_%E2%80%94_Viktor_Vasnetsov%27s_dacha_in_Abramtsevo_%281916%29.jpg",
     "title": "\u2014 Viktor Vasnetsov's dacha in Abramtsevo (1916)",
     "artist": "Mikhail Nesterov",
@@ -2290,50 +2162,50 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Alexei_Bogoliubov_-_Italian_Landscape.jpg",
     "title": "Alexei Bogoliubov - Italian Landscape",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alexei_Bogoliubov_-_Landscape.jpg",
     "title": "Alexei Bogoliubov - Landscape",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alexei_Bogoliubov_-_Landscape_%282%29.jpg",
     "title": "Alexei Bogoliubov - Landscape (2)",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Alexei_Bogoliubov_-_Landscape_%283%29.jpg",
     "title": "Alexei Bogoliubov - Landscape (3)",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alexei_Bogoliubov_-_Landscape_%284%29.jpg",
     "title": "Alexei Bogoliubov - Landscape (4)",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg/960px-Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg",
     "title": "Hendrik Voogd - Italian landscape with Umbrella Pines",
-    "artist": "Unknown",
+    "artist": "Hendrik Voogd",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Dutch Romantic"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Fyodor_Vasilyev_Crimean_landscape_11021.jpg",
@@ -2394,9 +2266,9 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/A_View_to_the_River_-_1861.jpg",
     "title": "A View to the River - 1861",
-    "artist": "Unknown",
+    "artist": "A View to the River",
     "year": 1861,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -2409,19 +2281,19 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Blue_Hole%2C_in_Little_Miami_River.jpg",
-    "title": "Blue Hole, in Little Miami River",
+    "title": "Blue Hole, Little Miami River",
     "artist": "Unknown",
     "year": null,
     "professional": false,
-    "style": "Landscape"
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Charles_Baker_River_Landscape_with_Cattle.png",
     "title": "Charles Baker River Landscape with Cattle",
-    "artist": "Unknown",
+    "artist": "Charles Baker",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "American Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cole_Thomas_Sunny_Morning_on_the_Hudson_River_1827.jpg/960px-Cole_Thomas_Sunny_Morning_on_the_Hudson_River_1827.jpg",
@@ -2437,15 +2309,15 @@
     "artist": "Unknown",
     "year": null,
     "professional": false,
-    "style": "Landscape"
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Frederick_Dickinson_Williams_-_%2C_Oil_on_canvas_painting_of_Hudson_River_School_landscape%2C_signed_lower_right.jpg/960px-Frederick_Dickinson_Williams_-_%2C_Oil_on_canvas_painting_of_Hudson_River_School_landscape%2C_signed_lower_right.jpg",
     "title": "Frederick Dickinson Williams - , Oil on canvas painting of Hudson River School landscape, signed lower right",
-    "artist": "Unknown",
+    "artist": "Frederick Dickinson Williams",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hudson_River_Scene_1861.jpg/960px-Hudson_River_Scene_1861.jpg",
@@ -2453,23 +2325,7 @@
     "artist": "Unknown",
     "year": 1861,
     "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hudson_River_School_Painters.jpg",
-    "title": "Hudson River School Painters",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hudson_River_landscape_painting_-52060646453.jpg/960px-Hudson_River_landscape_painting_-52060646453.jpg",
-    "title": "Hudson River landscape painting -52060646453",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/River_landscape_with_overhanging_trees_c._1890.jpg",
@@ -2477,183 +2333,135 @@
     "artist": "Unknown",
     "year": 1890,
     "professional": false,
-    "style": "Landscape"
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Robert_Havell%2C_Jr._-_Hudson_River_North_to_Croton_Point%2C_1851.jpg",
     "title": "Robert Havell, Jr. - Hudson River North to Croton Point, 1851",
-    "artist": "Unknown",
+    "artist": "Robert Havell",
     "year": 1851,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Thomas_Hill%2C_Yosemite_Valley%2C_ca.1890%2C_Collection_of_Berkshire_Museum%2C_Gift_of_Zenas_Crane%2C_1915.28.jpg",
     "title": "Thomas Hill, Yosemite Valley, ca.1890, Collection of Berkshire Museum, Gift of Zenas Crane, 1915.28",
-    "artist": "Unknown",
+    "artist": "Thomas Hill",
     "year": 1890,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Trout_Stream.jpg",
-    "title": "Trout Stream",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Unknown_artist%2C_American_-_Hudson_River_Landscape_-_42.146_-_Rhode_Island_School_of_Design_Museum.jpg/960px-Unknown_artist%2C_American_-_Hudson_River_Landscape_-_42.146_-_Rhode_Island_School_of_Design_Museum.jpg",
-    "title": "Unknown artist, American - Hudson River Landscape - 42.146 - Rhode Island School of Design Museum",
+    "title": "Hudson River Landscape",
     "artist": "Unknown",
     "year": null,
     "professional": false,
-    "style": "Landscape"
+    "style": "Hudson River School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_the_Hudson_River-Robert_Havell_Jr-1866.jpg/960px-View_of_the_Hudson_River-Robert_Havell_Jr-1866.jpg",
     "title": "View of the Hudson River-Robert Havell Jr-1866",
-    "artist": "Unknown",
+    "artist": "View of the Hudson River",
     "year": 1866,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wikidata-knowledge-graph-hudson-river-school-depictions.png/960px-Wikidata-knowledge-graph-hudson-river-school-depictions.png",
-    "title": "Wikidata-knowledge-graph-hudson-river-school-depictions",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wikidata-knowledge-graph-met-hudson-river-school.png/960px-Wikidata-knowledge-graph-met-hudson-river-school.png",
-    "title": "Wikidata-knowledge-graph-met-hudson-river-school",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Albert_Bredow_-_Romantic_Winter_Landscape_with_Ice_Skaters_by_a_Castle.jpg/960px-Albert_Bredow_-_Romantic_Winter_Landscape_with_Ice_Skaters_by_a_Castle.jpg",
     "title": "Albert Bredow - Romantic Winter Landscape with Ice Skaters by a Castle",
-    "artist": "Unknown",
+    "artist": "Albert Bredow",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "German Romantic"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aleksandr_Bogomolov-Romanovich%2C_Landscape_with_a_Hut%2C_Russian_Museum_%D0%96-11597.jpg",
     "title": "Aleksandr Bogomolov-Romanovich, Landscape with a Hut, Russian Museum \u0416-11597",
-    "artist": "Unknown",
+    "artist": "Aleksandr Bogomolov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alexander_I_of_Russia_by_G.Dawe_%281825%2C_Russian_museum%29.jpg",
-    "title": "Alexander I of Russia by G.Dawe (1825, Russian museum)",
-    "artist": "Unknown",
-    "year": 1825,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Alexander_I_of_Russia_by_G.Dawe_%281826%2C_Russian_museum%29.jpg",
-    "title": "Alexander I of Russia by G.Dawe (1826, Russian museum)",
-    "artist": "Unknown",
-    "year": 1826,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Alexandre_Calame_-_Landscape_with_Oaks_-_WGA3764.jpg/960px-Alexandre_Calame_-_Landscape_with_Oaks_-_WGA3764.jpg",
     "title": "Alexandre Calame - Landscape with Oaks - WGA3764",
-    "artist": "Unknown",
+    "artist": "Alexandre Calame",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Swiss Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Andreas_Achenbach_-_Landschaft_mit_Bach.jpg/960px-Andreas_Achenbach_-_Landschaft_mit_Bach.jpg",
     "title": "Andreas Achenbach - Landschaft mit Bach",
-    "artist": "Unknown",
+    "artist": "Andreas Achenbach",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "German Romantic"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Evening_Landscape_by_Andreas_Achenbach_State_Hermitage_Museum_%D0%93%D0%AD-3796.jpg",
     "title": "Evening Landscape by Andreas Achenbach State Hermitage Museum \u0413\u042d-3796",
-    "artist": "Unknown",
+    "artist": "Andreas Achenbach State Hermitage Museum",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "German Romantic"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fyodor_Yasnovsky._Summer_landscape_with_road.JPG/960px-Fyodor_Yasnovsky._Summer_landscape_with_road.JPG",
     "title": "Fyodor Yasnovsky. Summer landscape with road",
-    "artist": "Unknown",
+    "artist": "Fyodor Yasnovsky",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jan_Chrucki_Forest_Landscape_Galeria_Malarstwa_Polskiego_in_Bia%C5%82ystok.jpg/960px-Jan_Chrucki_Forest_Landscape_Galeria_Malarstwa_Polskiego_in_Bia%C5%82ystok.jpg",
     "title": "Jan Chrucki Forest Landscape Galeria Malarstwa Polskiego in Bia\u0142ystok",
-    "artist": "Unknown",
+    "artist": "Jan Chrucki",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Polish Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Atkinson_Grimshaw_-_Shipping_on_the_Clyde_%281881%29.jpg/960px-John_Atkinson_Grimshaw_-_Shipping_on_the_Clyde_%281881%29.jpg",
     "title": "John Atkinson Grimshaw - Shipping on the Clyde (1881)",
-    "artist": "Unknown",
+    "artist": "John Atkinson Grimshaw",
     "year": 1881,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jules_Dupr%C3%A9_-_Forest_Landscape_-_WGA6876.jpg/960px-Jules_Dupr%C3%A9_-_Forest_Landscape_-_WGA6876.jpg",
     "title": "Jules Dupr\u00e9 - Forest Landscape - WGA6876",
-    "artist": "Unknown",
+    "artist": "Jules Dupr\u00e9",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Barbizon School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jules_Dupr%C3%A9_-_Landscape_with_Cows_-_WGA6877.jpg/960px-Jules_Dupr%C3%A9_-_Landscape_with_Cows_-_WGA6877.jpg",
     "title": "Jules Dupr\u00e9 - Landscape with Cows - WGA6877",
-    "artist": "Unknown",
+    "artist": "Jules Dupr\u00e9",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Barbizon School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kryzhitsky_Landscape_with_a_pond.jpg",
     "title": "Kryzhitsky Landscape with a pond",
-    "artist": "Unknown",
+    "artist": "Konstantin Kryzhitsky",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lagorio%2C_Lev_Feliksovich._Kavkaz_Landscape._Oil_on_canvas%2C_53x_76_cm._1893.jpg/960px-Lagorio%2C_Lev_Feliksovich._Kavkaz_Landscape._Oil_on_canvas%2C_53x_76_cm._1893.jpg",
     "title": "Lagorio, Lev Feliksovich. Kavkaz Landscape. Oil on canvas, 53x 76 cm. 1893",
-    "artist": "Unknown",
+    "artist": "Lev Lagorio",
     "year": 1893,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Painting_of_the_nineteenth_century_in_Germany%2C_Holland%2C_Scandinavia_and_Russia_%28IA_paintingofninete00koeh%29.pdf/page1-960px-Painting_of_the_nineteenth_century_in_Germany%2C_Holland%2C_Scandinavia_and_Russia_%28IA_paintingofninete00koeh%29.pdf.jpg",
-    "title": "Painting of the nineteenth century in Germany, Holland, Scandinavia and Russia (IA paintingofninete00koeh).pdf",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Russia_%28Moscow%2C_Tretyanov_Gallery%29_The_Rainbow%2C_a_famous_painting_of_Aiazovsky_%2836515236431%29.jpg/960px-Russia_%28Moscow%2C_Tretyanov_Gallery%29_The_Rainbow%2C_a_famous_painting_of_Aiazovsky_%2836515236431%29.jpg",
@@ -2690,33 +2498,17 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fran%C3%A7ois-Louis_Fran%C3%A7ais_%281814_-_1897%29%2C_Diminea%C8%9B%C4%83_la_Barbizon%2C_oil_on_plywood%2C_26_x_37_cm.jpg",
     "title": "Fran\u00e7ois-Louis Fran\u00e7ais (1814 - 1897), Diminea\u021b\u0103 la Barbizon, oil on plywood, 26 x 37 cm",
-    "artist": "Unknown",
+    "artist": "Fran\u00e7ois",
     "year": 1814,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fran%C3%A7ois-Louis_Fran%C3%A7ais_%281814_-_1897%29_%2C_Mountain_Stream%2C_%28c.1865%29%2C_National_Gallery_of_Art%2C_Washington_D._C._watercolor_and_gouache_on_textured_wove_paper.jpg",
     "title": "Fran\u00e7ois-Louis Fran\u00e7ais (1814 - 1897) , Mountain Stream, (c.1865), National Gallery of Art, Washington D. C. watercolor ",
-    "artist": "Unknown",
+    "artist": "Fran\u00e7ois",
     "year": 1814,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/French_%28Barbizon%29_School_%28attributed_to%29_-_A_Woodland_Glade_-_637652_-_National_Trust.jpg/960px-French_%28Barbizon%29_School_%28attributed_to%29_-_A_Woodland_Glade_-_637652_-_National_Trust.jpg",
-    "title": "French (Barbizon) School (attributed to) - A Woodland Glade - 637652 - National Trust",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/French_%28Barbizon%29_School_-_A_Riverscape_with_a_Man_in_a_Boat_on_the_Riverbank_-_637651_-_National_Trust.jpg/960px-French_%28Barbizon%29_School_-_A_Riverscape_with_a_Man_in_a_Boat_on_the_Riverbank_-_637651_-_National_Trust.jpg",
-    "title": "French (Barbizon) School - A Riverscape with a Man in a Boat on the Riverbank - 637651 - National Trust",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -2728,172 +2520,20 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/THE_PAINTERS_OF_BARBIZON_COROT_DAUBIGNY_DUPRE_%28IA_paintersofbarbiz005314mbp%29.pdf/page1-500px-THE_PAINTERS_OF_BARBIZON_COROT_DAUBIGNY_DUPRE_%28IA_paintersofbarbiz005314mbp%29.pdf.jpg",
-    "title": "THE PAINTERS OF BARBIZON DAUBIGNY DUPRE (IA paintersofbarbiz005314mbp).pdf",
-    "artist": "Jean-Baptiste-Camille Corot",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/THE_PAINTERS_OF_BARBIZON_COROT_DAUBIGNY_DUPRE_%28IA_paintersofbarbiz017411mbp%29.pdf/page1-500px-THE_PAINTERS_OF_BARBIZON_COROT_DAUBIGNY_DUPRE_%28IA_paintersofbarbiz017411mbp%29.pdf.jpg",
-    "title": "THE PAINTERS OF BARBIZON DAUBIGNY DUPRE (IA paintersofbarbiz017411mbp).pdf",
-    "artist": "Jean-Baptiste-Camille Corot",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/THE_PAINTERS_OF_BARBIZON_MILLET_ROUSSEAU_DIAZ_%28IA_paintersofbarbiz005298mbp%29.pdf/page1-500px-THE_PAINTERS_OF_BARBIZON_MILLET_ROUSSEAU_DIAZ_%28IA_paintersofbarbiz005298mbp%29.pdf.jpg",
-    "title": "THE PAINTERS OF BARBIZON ROUSSEAU DIAZ (IA paintersofbarbiz005298mbp).pdf",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/THE_PAINTERS_OF_BARBIZON_MILLET_ROUSSEAU_DIAZ_%28IA_paintersofbarbiz017395mbp%29.pdf/page1-500px-THE_PAINTERS_OF_BARBIZON_MILLET_ROUSSEAU_DIAZ_%28IA_paintersofbarbiz017395mbp%29.pdf.jpg",
-    "title": "THE PAINTERS OF BARBIZON ROUSSEAU DIAZ (IA paintersofbarbiz017395mbp).pdf",
-    "artist": "Jean-Fran\u00e7ois Millet",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Barbizon_school_of_painters-_%28IA_gri_33125008541878%29.pdf/page1-960px-The_Barbizon_school_of_painters-_%28IA_gri_33125008541878%29.pdf.jpg",
     "title": "The Barbizon school of painters- (IA gri 33125008541878).pdf",
-    "artist": "Unknown",
+    "artist": "The Barbizon school of painters",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_painters_of_Barbizon_%28IA_paintersofbarbiz01moll%29.pdf/page1-500px-The_painters_of_Barbizon_%28IA_paintersofbarbiz01moll%29.pdf.jpg",
-    "title": "The painters of Barbizon (IA paintersofbarbiz01moll).pdf",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_painters_of_Barbizon_%28IA_paintersofbarbiz02moll%29.pdf/page1-500px-The_painters_of_Barbizon_%28IA_paintersofbarbiz02moll%29.pdf.jpg",
-    "title": "The painters of Barbizon (IA paintersofbarbiz02moll).pdf",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Trouillebert_Paysage_aux_Lavandieres.jpg/960px-Trouillebert_Paysage_aux_Lavandieres.jpg",
     "title": "Trouillebert Paysage aux Lavandieres",
-    "artist": "Unknown",
+    "artist": "L\u00e9on Trouillebert",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2024_Changan_Lumin_L_DC.jpg/960px-2024_Changan_Lumin_L_DC.jpg",
-    "title": "2024 Changan Lumin L DC",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Becoming.jpg",
-    "title": "Becoming",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Between_Worlds.jpg",
-    "title": "Between Worlds",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chang%27an_Lumin_Shishi_01_2022-09-10.jpg/960px-Chang%27an_Lumin_Shishi_01_2022-09-10.jpg",
-    "title": "Chang'an Lumin Shishi 01 2022-09-10",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chang%27an_Lumin_Shishi_02_2022-09-10.jpg/960px-Chang%27an_Lumin_Shishi_02_2022-09-10.jpg",
-    "title": "Chang'an Lumin Shishi 02 2022-09-10",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Changan_Lumin_001.jpg/960px-Changan_Lumin_001.jpg",
-    "title": "Changan Lumin 001",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Changan_Lumin_002.jpg/960px-Changan_Lumin_002.jpg",
-    "title": "Changan Lumin 002",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Changan_Lumin_003.jpg/960px-Changan_Lumin_003.jpg",
-    "title": "Changan Lumin 003",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Changan_Lumin_004.jpg/960px-Changan_Lumin_004.jpg",
-    "title": "Changan Lumin 004",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Changan_Lumin_2023040801.jpg/960px-Changan_Lumin_2023040801.jpg",
-    "title": "Changan Lumin 2023040801",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Changan_Lumin_2023040802.jpg/960px-Changan_Lumin_2023040802.jpg",
-    "title": "Changan Lumin 2023040802",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Communion_40_x_60.jpg/960px-Communion_40_x_60.jpg",
-    "title": "Communion 40 x 60",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Communion_40_x_60_DaLuz.jpg/960px-Communion_40_x_60_DaLuz.jpg",
-    "title": "Communion 40 x 60 DaLuz",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Barbizon School"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JasperCropsey-Catskill_Creek_1850.jpg/960px-JasperCropsey-Catskill_Creek_1850.jpg",
@@ -2902,14 +2542,6 @@
     "year": 1850,
     "professional": true,
     "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/METwPeople.jpg",
-    "title": "METwPeople",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%27Grand_Canyon_of_the_Yellowstone%2C_Wyoming%27_by_Thomas_Moran%2C_De_Young_Museum.JPG/960px-%27Grand_Canyon_of_the_Yellowstone%2C_Wyoming%27_by_Thomas_Moran%2C_De_Young_Museum.JPG",
@@ -2934,14 +2566,6 @@
     "year": null,
     "professional": true,
     "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Grand_canyon_of_Yellowstone_and_Yellowstone_fall_nn_edit1.jpg/960px-Grand_canyon_of_Yellowstone_and_Yellowstone_fall_nn_edit1.jpg",
-    "title": "Grand canyon of Yellowstone and Yellowstone fall nn edit1",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Moran%2C_Thomas_-_Grand_Canyon_of_the_Yellowstone%2C_1904.jpg/960px-Moran%2C_Thomas_-_Grand_Canyon_of_the_Yellowstone%2C_1904.jpg",
@@ -3072,78 +2696,6 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Church_Heart_of_the_Andes_exhibited.jpg",
-    "title": "Heart of the Andes exhibited",
-    "artist": "Frederic Edwin Church",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Frederic_Edwin_Church_-_The_Heart_of_the_Andes.jpg/960px-Frederic_Edwin_Church_-_The_Heart_of_the_Andes.jpg",
-    "title": "Frederic Edwin - The Heart of the Andes",
-    "artist": "Frederic Edwin Church",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Frederic_Edwin_Church_-_The_Heart_of_the_Andes_-_WGA4866.jpg/960px-Frederic_Edwin_Church_-_The_Heart_of_the_Andes_-_WGA4866.jpg",
-    "title": "Frederic Edwin - The Heart of the Andes - WGA4866",
-    "artist": "Frederic Edwin Church",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Heart_of_the_Andes_MET_DP156437.jpg/960px-Heart_of_the_Andes_MET_DP156437.jpg",
-    "title": "Heart of the Andes MET DP156437",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Heart_of_the_Andes_MET_DP244561.jpg/960px-Heart_of_the_Andes_MET_DP244561.jpg",
-    "title": "Heart of the Andes MET DP244561",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heart_of_the_Andes_MET_DT282444.jpg/960px-Heart_of_the_Andes_MET_DT282444.jpg",
-    "title": "Heart of the Andes MET DT282444",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heart_of_the_Andes_MET_DT282445.jpg/960px-Heart_of_the_Andes_MET_DT282445.jpg",
-    "title": "Heart of the Andes MET DT282445",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Heart_of_the_Andes_MET_DT78.jpg/960px-Heart_of_the_Andes_MET_DT78.jpg",
-    "title": "Heart of the Andes MET DT78",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Heart_of_the_Andes_MET_RC_041R5.jpg/960px-Heart_of_the_Andes_MET_RC_041R5.jpg",
-    "title": "Heart of the Andes MET RC 041R5",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Brooklyn_Museum_-_June_-_George_Inness_-_overall.jpg/960px-Brooklyn_Museum_-_June_-_George_Inness_-_overall.jpg",
     "title": "Brooklyn Museum - June - George - overall",
     "artist": "George Inness",
@@ -3224,14 +2776,6 @@
     "style": "American Tonalism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Goose_Girl_.jpg",
-    "title": "The Goose Girl",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%27Autumn_Landscape%27_by_Jasper_F._Cropsey%2C_Dayton_Art_Institute.JPG/960px-%27Autumn_Landscape%27_by_Jasper_F._Cropsey%2C_Dayton_Art_Institute.JPG",
     "title": "'Autumn Landscape' by Jasper F. , Dayton Art Institute",
     "artist": "Jasper Francis Cropsey",
@@ -3286,14 +2830,6 @@
     "year": null,
     "professional": true,
     "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Masterpieces_of_the_sea_%28Morris%2C_Richards%2C_1912%29_DjVu_pg_45a.jpg",
-    "title": "Masterpieces of the sea (Morris, , 1912) DjVu pg 45a",
-    "artist": "William Trost Richards",
-    "year": 1912,
-    "professional": true,
-    "style": "American Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ocean_Sunset_by_William_Trost_Richards%2C_1895%2C_oil_on_canvas%2C_Portland_Museum_of_Art.jpg/960px-Ocean_Sunset_by_William_Trost_Richards%2C_1895%2C_oil_on_canvas%2C_Portland_Museum_of_Art.jpg",
@@ -3410,9 +2946,9 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iwan_Szyszkin_-_Forest_-_M.Ob.2187_-_National_Museum_in_Warsaw.jpg/960px-Iwan_Szyszkin_-_Forest_-_M.Ob.2187_-_National_Museum_in_Warsaw.jpg",
     "title": "Iwan Szyszkin - Forest - M.Ob.2187 - National Museum in Warsaw",
-    "artist": "Unknown",
+    "artist": "Iwan Szyszkin",
     "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -3504,14 +3040,6 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Arkhip_Kou%C3%AFndji.jpg/960px-Arkhip_Kou%C3%AFndji.jpg",
-    "title": "Arkhip Kou\u00efndji",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arkhip_Kuindzhi.jpg",
     "title": "Arkhip",
     "artist": "Arkhip Kuindzhi",
@@ -3542,30 +3070,6 @@
     "year": 1872,
     "professional": true,
     "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%94._%D0%98._%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2_%D0%B8%D0%B3%D1%80%D0%B0%D0%B5%D1%82_%D0%B2_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B_%D1%81_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC_%D0%90._%D0%98._%D0%9A%D1%83%D0%B8%D0%BD%D0%B4%D0%B6%D0%B8.jpg/960px-%D0%94._%D0%98._%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2_%D0%B8%D0%B3%D1%80%D0%B0%D0%B5%D1%82_%D0%B2_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B_%D1%81_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC_%D0%90._%D0%98._%D0%9A%D1%83%D0%B8%D0%BD%D0%B4%D0%B6%D0%B8.jpg",
-    "title": "\u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432 \u0438\u0433\u0440\u0430\u0435\u0442 \u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u044b \u0441 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u043e\u043c \u0410. \u0418. \u041a\u0443\u0438\u043d\u0434\u0436\u0438",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1416661203_17-vasiliev_fs-1.jpg",
-    "title": "1416661203 17-vasiliev fs-1",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/1416661415_04-vasiliev_fs.jpg",
-    "title": "1416661415 04-vasiliev fs",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Feodor_Vasilyev_by_Kramskoi.jpg",
@@ -3616,36 +3120,12 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.png",
-    "title": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432 \u0424\u0451\u0434\u043e\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%A4.%D0%A1.%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2.jpg/960px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%A4.%D0%A1.%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2.jpg",
-    "title": "\u041c\u0435\u043c\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430 \u0424.\u0421.\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Alexey-savrasov-1860-s.jpg",
     "title": "Alexey--1860-s",
     "artist": "Alexei Savrasov",
     "year": 1860,
     "professional": true,
     "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RR5110-0020R_100-%D0%BB%D0%B5%D1%82%D0%B8%D0%B5_%D1%81%D0%BE_%D0%B4%D0%BD%D1%8F_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8_%D0%90.%D0%9A._%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.gif",
-    "title": "RR5110-0020R 100-\u043b\u0435\u0442\u0438\u0435 \u0441\u043e \u0434\u043d\u044f \u0441\u043c\u0435\u0440\u0442\u0438 \u0410.\u041a. \u0421\u0430\u0432\u0440\u0430\u0441\u043e\u0432\u0430.gif",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Savrasov-1860-s.jpg",
@@ -3848,14 +3328,6 @@
     "style": "German Romantic"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Study_of_Pine_Trees_and_a_Rock_%28recto%29%3B_Landscape_%28verso%29%2C_by_Caspar_David_Friedrich_%28Getty_109JD8%29.jpg/960px-Study_of_Pine_Trees_and_a_Rock_%28recto%29%3B_Landscape_%28verso%29%2C_by_Caspar_David_Friedrich_%28Getty_109JD8%29.jpg",
-    "title": "Study of Pine Trees and a Rock (recto); Landscape (verso), by Caspar David (Getty 109JD8)",
-    "artist": "Caspar David Friedrich",
-    "year": null,
-    "professional": true,
-    "style": "German Romantic"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%28Albi%29_Jean-Baptiste_Corot_-_Souvenir_d%27Italie%2C_danseurs_des_rivages_de_Capri_MTL.inv244.jpg/960px-%28Albi%29_Jean-Baptiste_Corot_-_Souvenir_d%27Italie%2C_danseurs_des_rivages_de_Capri_MTL.inv244.jpg",
     "title": "(Albi) Jean-Baptiste - Souvenir d'Italie, danseurs des rivages de Capri MTL.inv244",
     "artist": "Jean-Baptiste-Camille Corot",
@@ -4016,14 +3488,6 @@
     "style": "Barbizon School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Charles-Fran%C3%A7ois_Daubigny_-_Landschap.jpg/960px-Charles-Fran%C3%A7ois_Daubigny_-_Landschap.jpg",
-    "title": "Charles-Fran\u00e7ois - Landschap",
-    "artist": "Charles-Fran\u00e7ois Daubigny",
-    "year": null,
-    "professional": true,
-    "style": "Barbizon School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charles-Fran%C3%A7ois_Daubigny_-_Summer_Landscape_-_A_I_523_-_Finnish_National_Gallery.jpg/960px-Charles-Fran%C3%A7ois_Daubigny_-_Summer_Landscape_-_A_I_523_-_Finnish_National_Gallery.jpg",
     "title": "Charles-Fran\u00e7ois - Summer Landscape - A I 523 - Finnish National Gallery",
     "artist": "Charles-Fran\u00e7ois Daubigny",
@@ -4081,7 +3545,7 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Landscape_with_Goatherd_MET_DT2941.jpg/960px-Landscape_with_Goatherd_MET_DT2941.jpg",
-    "title": "Landscape with Goatherd MET DT2941",
+    "title": "Landscape with Goatherd",
     "artist": "Unknown",
     "year": null,
     "professional": false,
@@ -4346,10 +3810,10 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/-Ivan_Constantinovich_Aivasovski-_MET_DP332588.jpg/960px--Ivan_Constantinovich_Aivasovski-_MET_DP332588.jpg",
     "title": "-Ivan Constantinovich Aivasovski- MET DP332588",
-    "artist": "Unknown",
+    "artist": "Ivan Aivazovsky",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/A_Ship_of_the_Russian_Navy_off_the_Coast_%28by_Ivan_Aivazovsky%29.jpg/960px-A_Ship_of_the_Russian_Navy_off_the_Coast_%28by_Ivan_Aivazovsky%29.jpg",
@@ -4394,14 +3858,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ships_on_a_misty_morning_%28by_Ivan_Aivazovsky%29.jpg/960px-Ships_on_a_misty_morning_%28by_Ivan_Aivazovsky%29.jpg",
     "title": "Ships on a misty morning (by Ivan )",
-    "artist": "Ivan Aivazovsky",
-    "year": null,
-    "professional": true,
-    "style": "Russian Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Statue_of_Ivan_Aivazovsky_in_Yerevan_07-03-2019.jpg/960px-Statue_of_Ivan_Aivazovsky_in_Yerevan_07-03-2019.jpg",
-    "title": "Statue of Ivan in Yerevan 07-03-2019",
     "artist": "Ivan Aivazovsky",
     "year": null,
     "professional": true,
@@ -4529,14 +3985,6 @@
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Robert_Swain_Gifford_-_Harlingen_-_1941.124_-_Cleveland_Museum_of_Art.jpg/960px-Robert_Swain_Gifford_-_Harlingen_-_1941.124_-_Cleveland_Museum_of_Art.jpg",
-    "title": "Robert Swain - Harlingen - 1941.124 - Cleveland Museum of Art",
-    "artist": "Sanford Robinson Gifford",
-    "year": 1941,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Robert_Swain_Gifford_-_Harlingen_-_1941.124_-_Cleveland_Museum_of_Art.tif/lossy-page1-960px-Robert_Swain_Gifford_-_Harlingen_-_1941.124_-_Cleveland_Museum_of_Art.tif.jpg",
     "title": "Robert Swain - Harlingen - 1941.124 - Cleveland Museum of Art",
     "artist": "Sanford Robinson Gifford",
     "year": 1941,
@@ -4714,50 +4162,50 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Alexei_Bogoliubov_-_Dieppe_Harbour.jpg",
     "title": "Alexei Bogoliubov - Dieppe Harbour",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Alexei_Bogoliubov_-_Nice_%282%29.jpg",
     "title": "Alexei Bogoliubov - Nice (2)",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Alexei_Bogoliubov_-_The_Seine_at_Asnieres.jpg",
     "title": "Alexei Bogoliubov - The Seine at Asnieres",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Alexei_Bogoliubov_-_Treport.jpg",
     "title": "Alexei Bogoliubov - Treport",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alexei_Bogoliubov_-_Treport_%282%29.jpg",
     "title": "Alexei Bogoliubov - Treport (2)",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Alexei_Bogoliubov_-_Washerwomen_in_Vichy.jpg",
     "title": "Alexei Bogoliubov - Washerwomen in Vichy",
-    "artist": "Unknown",
+    "artist": "Alexei Bogoliubov",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "Russian Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alexei_Petrovich_Bogolyubov._The_Sunset_%28A_Pulwar_By_The_Sea%29.jpg",
@@ -4768,19 +4216,11 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bogolubov_AP.jpg/960px-Bogolubov_AP.jpg",
-    "title": "Bogolubov AP",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Andr%C3%A1s_Mark%C3%B3_-_Italian_Landscape_with_Sheperdess_-_WGA14098.jpg/960px-Andr%C3%A1s_Mark%C3%B3_-_Italian_Landscape_with_Sheperdess_-_WGA14098.jpg",
     "title": "Andr\u00e1s Mark\u00f3 - Italian Landscape with Sheperdess - WGA14098",
-    "artist": "Unknown",
+    "artist": "Andr\u00e1s Mark\u00f3",
     "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -4904,68 +4344,20 @@
     "style": "Russian Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Boris_Anisfeld_exhibition%3B_with_introduction_and_catalogue_of_the_paintings_%28IA_borisanisfeldexh00brin%29.pdf/page1-960px-The_Boris_Anisfeld_exhibition%3B_with_introduction_and_catalogue_of_the_paintings_%28IA_borisanisfeldexh00brin%29.pdf.jpg",
-    "title": "The Boris Anisfeld exhibition; with introduction and catalogue of the paintings (IA borisanisfeldexh00brin).pdf",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Ilya_Repin_Exhibition%3B_introduction_and_catalogue_of_the_paintings_%28IA_ilyarepinexhibit00brin%29.pdf/page1-960px-The_Ilya_Repin_Exhibition%3B_introduction_and_catalogue_of_the_paintings_%28IA_ilyarepinexhibit00brin%29.pdf.jpg",
-    "title": "The Ilya Repin Exhibition; introduction and catalogue of the paintings (IA ilyarepinexhibit00brin).pdf",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Nicolas_Roerich_exhibition%2C_with_introduction_and_catalogue_of_the_paintings._1920-1921-1922_%28IA_cu31924008661096%29.pdf/page1-500px-The_Nicolas_Roerich_exhibition%2C_with_introduction_and_catalogue_of_the_paintings._1920-1921-1922_%28IA_cu31924008661096%29.pdf.jpg",
-    "title": "The Nicolas Roerich exhibition, with introduction and catalogue of the paintings. 1920-1921-1922 (IA cu31924008661096).p",
-    "artist": "Unknown",
-    "year": 1920,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%27Cotopaxi%27%2C_American_School%2C_19th_century%2C_Reading_Public_Museum.jpg",
-    "title": "'Cotopaxi', American School, 19th century, Reading Public Museum",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%27River_in_a_Mountain_Landscape%27%2C_oil_on_canvas_painting_by_John_Mix_Stanley%2C_c._1840s.jpg",
     "title": "'River in a Mountain Landscape', oil on canvas painting by John Mix Stanley, c. 1840s",
-    "artist": "Unknown",
+    "artist": "John Mix Stanley",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/American_19th_Century%2C_Stylized_Landscape%2C_second_half_19th_century%2C_NGA_50826.jpg/960px-American_19th_Century%2C_Stylized_Landscape%2C_second_half_19th_century%2C_NGA_50826.jpg",
-    "title": "American 19th Century, Stylized Landscape, second half 19th century, NGA 50826",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/American_19th_Century%2C_The_End_of_the_Hunt%2C_c._1800%2C_NGA_42502.jpg/960px-American_19th_Century%2C_The_End_of_the_Hunt%2C_c._1800%2C_NGA_42502.jpg",
-    "title": "American 19th Century, The End of the Hunt, c. 1800, NGA 42502",
-    "artist": "Unknown",
-    "year": 1800,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edward_Bailey_painting_of_Wailuku_and_Iao_Valley.jpg/960px-Edward_Bailey_painting_of_Wailuku_and_Iao_Valley.jpg",
-    "title": "Edward Bailey painting of Wailuku and Iao Valley",
-    "artist": "Unknown",
+    "title": "Wailuku and Iao Valley",
+    "artist": "Edward Bailey",
     "year": null,
-    "professional": false,
-    "style": "Landscape"
+    "professional": true,
+    "style": "American Realism"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gifford%2C_Sanford_Robinson_-_Tombs_of_the_Mameluks_-_19th_century.gif",
@@ -4986,9 +4378,9 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Landscape_with_Houses%2C_by_Unknown_Artist.jpg",
     "title": "Landscape with Houses, by Unknown Artist",
-    "artist": "Unknown",
+    "artist": "Unknown Artist",
     "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -5002,33 +4394,17 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pastoral_Landscape_by_Alvan_Fisher%2C_1854.jpg/960px-Pastoral_Landscape_by_Alvan_Fisher%2C_1854.jpg",
     "title": "Pastoral Landscape by Alvan Fisher, 1854",
-    "artist": "Unknown",
+    "artist": "Alvan Fisher",
     "year": 1854,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Robert_S._Duncanson_-_Romantic_Landscape_-_1983.95.157_-_Smithsonian_American_Art_Museum.jpg/960px-Robert_S._Duncanson_-_Romantic_Landscape_-_1983.95.157_-_Smithsonian_American_Art_Museum.jpg",
     "title": "Robert S. Duncanson - Romantic Landscape - 1983.95.157 - Smithsonian American Art Museum",
-    "artist": "Unknown",
+    "artist": "Robert S. Duncanson",
     "year": 1983,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stylized_Landscape_A18899.jpg/960px-Stylized_Landscape_A18899.jpg",
-    "title": "Stylized Landscape A18899",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
-    "style": "Landscape"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%C5%BDu%C5%BEemberk_Castle_late_19th_century.jpg/960px-%C5%BDu%C5%BEemberk_Castle_late_19th_century.jpg",
-    "title": "\u017du\u017eemberk Castle late 19th century",
-    "artist": "Unknown",
-    "year": null,
-    "professional": false,
+    "professional": true,
     "style": "Landscape"
   },
   {
@@ -5050,54 +4426,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-001.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-001.jpg",
     "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-001",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-002.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-002.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-002",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-004.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-004.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-004",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-006.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-006.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-006",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-011.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-011.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-011",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-012.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-012.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-012",
-    "artist": "Thomas Cole",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-014.jpg/960px-View_from_Mount_Holyoke%2C_Northampton%2C_Massachusetts%2C_after_a_Thunderstorm%E2%80%94The_Oxbow_MET_DP-12550-014.jpg",
-    "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm\u2014The Oxbow MET DP-12550-014",
     "artist": "Thomas Cole",
     "year": null,
     "professional": true,
@@ -5212,14 +4540,6 @@
     "title": "Thomas Cole - The Past - 1838",
     "artist": "Thomas Cole",
     "year": 1838,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Thomas_Cole_-_Watkins_Glen%2C_verso%2C_Landscape_-_1966.164_-_Fogg_Museum.jpg/960px-Thomas_Cole_-_Watkins_Glen%2C_verso%2C_Landscape_-_1966.164_-_Fogg_Museum.jpg",
-    "title": "Thomas Cole - Watkins Glen, verso, Landscape - 1966.164 - Fogg Museum",
-    "artist": "Thomas Cole",
-    "year": 1966,
     "professional": true,
     "style": "Hudson River School"
   },
@@ -8632,14 +7952,6 @@
     "style": "German Romantic"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich%2C_Caspar_David_-_Landweg_mit_Bach_und_Br%C3%BCcke_-_Hamburger_Kunsthalle-8645.jpg/960px-Friedrich%2C_Caspar_David_-_Landweg_mit_Bach_und_Br%C3%BCcke_-_Hamburger_Kunsthalle-8645.jpg",
-    "title": "Friedrich, Caspar David - Landweg mit Bach und Br\u00fccke - Hamburger Kunsthalle-8645",
-    "artist": "Caspar David Friedrich",
-    "year": null,
-    "professional": true,
-    "style": "German Romantic"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedrich%2C_Caspar_David_-_Landweg_mit_Bach_und_Br%C3%BCcke_-_Hamburger_Kunsthalle_-_8644.jpg/960px-Friedrich%2C_Caspar_David_-_Landweg_mit_Bach_und_Br%C3%BCcke_-_Hamburger_Kunsthalle_-_8644.jpg",
     "title": "Friedrich, Caspar David - Landweg mit Bach und Br\u00fccke - Hamburger Kunsthalle - 8644",
     "artist": "Caspar David Friedrich",
@@ -9194,14 +8506,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Petrified_Forest%2C_on_the_Santa_Fe%2C_After_painting_by_Thomas_Moran%2C_Fred_Harvey_%28NBY_17678%29.jpg",
     "title": "Petrified Forest, on the Santa Fe, After painting by Thomas Moran, Fred Harvey (NBY 17678)",
-    "artist": "Thomas Moran",
-    "year": null,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Petrified_Forest%2C_on_the_Santa_Fe%2C_After_painting_by_Thomas_Moran%2C_Fred_Harvey_%28NBY_19353%29.jpg",
-    "title": "Petrified Forest, on the Santa Fe, After painting by Thomas Moran, Fred Harvey (NBY 19353)",
     "artist": "Thomas Moran",
     "year": null,
     "professional": true,
@@ -11184,14 +10488,6 @@
     "style": "American Realism"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singer_Sargent_-_On_his_Holidays%2C_Norway.jpg/960px-John_Singer_Sargent_-_On_his_Holidays%2C_Norway.jpg",
-    "title": "John Singer Sargent - On his Holidays, Norway",
-    "artist": "John Singer Sargent",
-    "year": null,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/John_Singer_Sargent_-_On_his_Holidays%2C_Norway_%281901%29.jpg/960px-John_Singer_Sargent_-_On_his_Holidays%2C_Norway_%281901%29.jpg",
     "title": "John Singer Sargent - On his Holidays, Norway (1901)",
     "artist": "John Singer Sargent",
@@ -11292,14 +10588,6 @@
     "title": "John Singer Sargent, Beach Scene, 1880. Oil on panel",
     "artist": "John Singer Sargent",
     "year": 1880,
-    "professional": true,
-    "style": "American Realism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_Singer_Sargent%2C_Devastated_Landscape_%28verso%29%2C_1918%2C_NGA_206639.jpg/960px-John_Singer_Sargent%2C_Devastated_Landscape_%28verso%29%2C_1918%2C_NGA_206639.jpg",
-    "title": "John Singer Sargent, Devastated Landscape (verso), 1918, NGA 206639",
-    "artist": "John Singer Sargent",
-    "year": 1918,
     "professional": true,
     "style": "American Realism"
   },
@@ -14296,24 +13584,8 @@
     "style": "Hudson River School"
   },
   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/David_Johnson_-_Landscape_and_Tree_Studies_%28verso%29_-_1996.369.b_-_Cleveland_Museum_of_Art.tif/lossy-page1-960px-David_Johnson_-_Landscape_and_Tree_Studies_%28verso%29_-_1996.369.b_-_Cleveland_Museum_of_Art.tif.jpg",
-    "title": "David Johnson - Landscape and Tree Studies (verso) - 1996.369.b - Cleveland Museum of Art",
-    "artist": "David Johnson",
-    "year": 1996,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/David_Johnson_-_Landscape_with_Man_Fishing%2C_Conway%2C_New_Hampshire_-_1996.368_-_Cleveland_Museum_of_Art.tif/lossy-page1-960px-David_Johnson_-_Landscape_with_Man_Fishing%2C_Conway%2C_New_Hampshire_-_1996.368_-_Cleveland_Museum_of_Art.tif.jpg",
     "title": "David Johnson - Landscape with Man Fishing, Conway, New Hampshire - 1996.368 - Cleveland Museum of Art",
-    "artist": "David Johnson",
-    "year": 1996,
-    "professional": true,
-    "style": "Hudson River School"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/David_Johnson_-_Pine_Tree%2C_Conway%2C_New_Hampshire_%28recto%29%3B_Landscape_and_Tree_Studies_%28verso_-_1996.369_-_Cleveland_Museum_of_Art.tif/lossy-page1-960px-David_Johnson_-_Pine_Tree%2C_Conway%2C_New_Hampshire_%28recto%29%3B_Landscape_and_Tree_Studies_%28verso_-_1996.369_-_Cleveland_Museum_of_Art.tif.jpg",
-    "title": "David Johnson - Pine Tree, Conway, New Hampshire (recto); Landscape and Tree Studies (verso - 1996.369 - Cleveland Museu",
     "artist": "David Johnson",
     "year": 1996,
     "professional": true,
@@ -14914,22 +14186,6 @@
   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Pinkham_Ryder%2C_Mending_the_Harness%2C_mid_to_late_1870s%2C_NGA_39760.jpg/960px-Albert_Pinkham_Ryder%2C_Mending_the_Harness%2C_mid_to_late_1870s%2C_NGA_39760.jpg",
     "title": "Albert Pinkham Ryder, Mending the Harness, mid to late 1870s, NGA 39760",
-    "artist": "Albert Pinkham Ryder",
-    "year": null,
-    "professional": true,
-    "style": "American Tonalism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Albert_Pinkham_Ryder_%28IA_albertpinkhamryd00sher%29.pdf/page1-960px-Albert_Pinkham_Ryder_%28IA_albertpinkhamryd00sher%29.pdf.jpg",
-    "title": "Albert Pinkham Ryder (IA albertpinkhamryd00sher).pdf",
-    "artist": "Albert Pinkham Ryder",
-    "year": null,
-    "professional": true,
-    "style": "American Tonalism"
-  },
-  {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Albert_Pinkham_Ryder_%28IA_cu31924014882066%29.pdf/page1-500px-Albert_Pinkham_Ryder_%28IA_cu31924014882066%29.pdf.jpg",
-    "title": "Albert Pinkham Ryder (IA cu31924014882066).pdf",
     "artist": "Albert Pinkham Ryder",
     "year": null,
     "professional": true,
