@@ -2,7 +2,9 @@
 
 A Pinterest-style gallery of realist and romantic landscape paintings — Hudson River School, Russian Realism, and similar work suited for large wall pieces (8×6 ft and up).
 
-**Live site:** Enable GitHub Pages (Settings → Pages → Deploy from branch `main`, folder `/ (root)`). Your site will be at `https://<username>.github.io/<repo-name>/`.
+**Live site:** https://trevsm.github.io/bulma-social/
+
+Pages deploys automatically via GitHub Actions on every push to `main` or `master`. If the site 404s on first setup, go to [Settings → Pages](https://github.com/trevsm/bulma-social/settings/pages) and set **Source** to either **GitHub Actions** or **Deploy from branch → `gh-pages` / root**.
 
 ## Add images
 
